@@ -1,0 +1,84 @@
+{
+  "title": "Daily X narrative digest — 2026-10-26",
+  "date": "2026-10-26",
+  "timezone": "America/Sao_Paulo",
+  "updated": "2026-10-26T23:00:38.378505-03:00",
+  "brand_title": "Grok Bot X Virality Score",
+  "brand_handle": "@jhoneme",
+  "hits": [],
+  "virals": [],
+  "outsiders": [],
+  "patterns": [],
+  "no_hits": [],
+  "virals_narrative": "Board scaffolded — first digest will fill hits and outsiders.",
+  "narrative_synthesis": "Board scaffolded — first digest will fill hits and outsiders.",
+  "virals_window": "last ~48h",
+  "virals_target": 20,
+  "hits_count": 0,
+  "outsiders_count": 0,
+  "previous_day": {
+    "date": "2026-10-26",
+    "hits_count": 0,
+    "total_views": 0,
+    "x_score": 0
+  },
+  "leaderboards": {
+    "as_of": "2026-10-26",
+    "tracking_start": "2026-10-26",
+    "days_included": [
+      "2026-10-26"
+    ],
+    "month_days_included": [
+      "2026-10-26"
+    ],
+    "week": {
+      "label": "Rolling week · from 2026-10-26",
+      "range": [
+        "2026-10-26",
+        "2026-10-26"
+      ],
+      "entries": []
+    },
+    "month": {
+      "label": "October 2026 · from 2026-10-26",
+      "range": [
+        "2026-10-26",
+        "2026-10-26"
+      ],
+      "entries": []
+    }
+  },
+  "board_features": {
+    "count_up": true,
+    "live_pulse": true,
+    "theme_toggle": true,
+    "themes": [
+      "night",
+      "day"
+    ],
+    "grok_ambient": true,
+    "week_month_boards": true,
+    "day_roster_best_total": true,
+    "day_compare_chart": true,
+    "week_strip": true,
+    "no_hits_reasons": true,
+    "marker_class": "xvs-dash-2026",
+    "top10_drafts_v4": true,
+    "trend_keywords": true,
+    "trend_radar": true,
+    "x_keyword_table": true,
+    "experiment": true,
+    "self_quote_badge": true
+  },
+  "operator": {
+    "handle": "jhoneme",
+    "name": "Jhonata Emerick",
+    "profile_url": "https://x.com/jhoneme"
+  },
+  "ui": {
+    "default_theme": "night"
+  },
+  "day_roster": [],
+  "you_rank": null,
+  "trend_input_only_posts": []
+}

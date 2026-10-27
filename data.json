@@ -1,27 +1,38 @@
 {
-  "title": "Daily X narrative digest — 2026-10-25",
-  "date": "2026-10-25",
+  "title": "Daily X narrative digest — 2026-10-27",
+  "date": "2026-10-27",
   "timezone": "America/Sao_Paulo",
-  "updated": "2026-10-26T23:03:47-03:00",
+  "updated": "2026-10-27T10:24:08-03:00",
   "brand_title": "Grok Bot X Virality Score",
   "brand_handle": "@jhoneme",
   "hits": [
     {
-      "id": "2114243303994486876",
+      "id": "2114973768473039185",
       "handle": "@elonmusk",
       "name": "Elon Musk",
-      "url": "https://x.com/elonmusk/status/2114243303994486876",
-      "views": 7587274,
-      "likes": 15054,
-      "reposts": 1442,
-      "replies": 2985,
-      "bookmarks": 362,
-      "posted_at": "2026-10-25T06:30:59.000Z",
-      "original_en": "Try @Starlink for awesome Internet everywhere! https://t.co/5ymd9zRmwt",
-      "text": "Try @Starlink for awesome Internet everywhere! https://t.co/5ymd9zRmwt",
-      "followers": 241536885,
+      "url": "https://x.com/elonmusk/status/2114973768473039185",
+      "views": 3546080,
+      "likes": 20840,
+      "reposts": 1604,
+      "replies": 3559,
+      "bookmarks": 1136,
+      "posted_at": "2026-10-27T06:53:35.000Z",
+      "original_en": "Everyone should have at least a few penchants",
+      "text": "Everyone should have at least a few penchants",
+      "followers": 241539373,
       "star": true,
-      "is_quote": true,
+      "highlight": true,
+      "is_quote": false,
+      "board_rank": 3,
+      "draft_en": "A life without a couple of odd penchants sounds pretty dull. Collect a few.",
+      "draft_keywords": [],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.111,
+        "max_copied_run": 2
+      },
+      "top10_rank": 3,
       "why_hit": {
         "trend_match": 0,
         "verdict": "author/audience",
@@ -29,24 +40,39 @@
         "media": "no data",
         "note": "media: no data, followers: no data (estimate from reach >= 500K)",
         "topic": null
-      }
+      },
+      "hook": "Elon: todo mundo deveria ter algumas 'manias' (penchants).",
+      "video_tip": "One-liner sem mídia: se for reaproveitar, vídeo-selfie 10s respondendo 'qual é a sua mania?' com legenda grande; formato enquete funciona melhor que texto puro."
     },
     {
-      "id": "2114471229994520809",
+      "id": "2114930622238200202",
       "handle": "@elonmusk",
       "name": "Elon Musk",
-      "url": "https://x.com/elonmusk/status/2114471229994520809",
-      "views": 4661537,
-      "likes": 44393,
-      "reposts": 5873,
-      "replies": 2715,
-      "bookmarks": 663,
-      "posted_at": "2026-10-25T21:36:40.000Z",
-      "original_en": "Good questions https://t.co/Zr6EOyAGJ1",
-      "text": "Good questions https://t.co/Zr6EOyAGJ1",
-      "followers": 241536885,
+      "url": "https://x.com/elonmusk/status/2114930622238200202",
+      "views": 2184701,
+      "likes": 20749,
+      "reposts": 2413,
+      "replies": 623,
+      "bookmarks": 325,
+      "posted_at": "2026-10-27T04:02:08.000Z",
+      "original_en": "Sounds like Alex P🍆 knows a thing or two about being investigated 🤔 https://t.co/Zs614z5GLQ",
+      "text": "Sounds like Alex P🍆 knows a thing or two about being investigated 🤔 https://t.co/Zs614z5GLQ",
+      "followers": 241539373,
       "star": true,
+      "highlight": true,
       "is_quote": true,
+      "board_rank": 4,
+      "draft_en": "Alex Padilla weighing in on investigations? Feels like he might know the subject better than most 🤔",
+      "draft_keywords": [
+        "Alex Padilla"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.125,
+        "max_copied_run": 1
+      },
+      "top10_rank": 4,
       "why_hit": {
         "trend_match": 0,
         "verdict": "author/audience",
@@ -54,24 +80,40 @@
         "media": "no data",
         "note": "media: no data, followers: no data (estimate from reach >= 500K)",
         "topic": null
-      }
+      },
+      "hook": "Elon alfineta Alex Padilla sobre investigações (tema eleitoral da Califórnia).",
+      "video_tip": "Tema político/EUA: não recomendado para o seu nicho. Se usar, só como exemplo de 'quote-post de uma linha' num vídeo sobre formatos virais."
     },
     {
-      "id": "2114377735841730673",
+      "id": "2114944426271441127",
       "handle": "@elonmusk",
       "name": "Elon Musk",
-      "url": "https://x.com/elonmusk/status/2114377735841730673",
-      "views": 4421031,
-      "likes": 38139,
-      "reposts": 7835,
-      "replies": 4377,
-      "bookmarks": 770,
-      "posted_at": "2026-10-25T15:25:10.000Z",
-      "original_en": "Talarico is a far left extremist https://t.co/5qel9DSfwn",
-      "text": "Talarico is a far left extremist https://t.co/5qel9DSfwn",
-      "followers": 241536885,
+      "url": "https://x.com/elonmusk/status/2114944426271441127",
+      "views": 1864546,
+      "likes": 7116,
+      "reposts": 580,
+      "replies": 729,
+      "bookmarks": 308,
+      "posted_at": "2026-10-27T04:56:59.000Z",
+      "original_en": "Cute 🥰 https://t.co/0pnITCFpvG",
+      "text": "Cute 🥰 https://t.co/0pnITCFpvG",
+      "followers": 241539373,
       "star": true,
+      "highlight": true,
       "is_quote": true,
+      "board_rank": 5,
+      "draft_en": "Jensen Huang got upstaged by a family of ducks at GTC Berlin and honestly it is adorable 🥰 Europe is busy building AI factories, AI agents and robots - and the ducks still stole the show.",
+      "draft_keywords": [
+        "Europe",
+        "AI agents"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.0,
+        "max_copied_run": 0
+      },
+      "top10_rank": 5,
       "why_hit": {
         "trend_match": 0,
         "verdict": "author/audience",
@@ -79,24 +121,37 @@
         "media": "no data",
         "note": "media: no data, followers: no data (estimate from reach >= 500K)",
         "topic": null
-      }
+      },
+      "hook": "Elon reage ao Jensen Huang sendo 'ato de abertura' de uma família de patos na GTC Berlin.",
+      "video_tip": "Vídeo curto 15-20s: recorte do clipe dos patos na GTC Berlin + overlay 'Europa construindo AI factories e agentes'. Tom leve, música suave."
     },
     {
-      "id": "2114507338249875500",
+      "id": "2114931068365414757",
       "handle": "@elonmusk",
       "name": "Elon Musk",
-      "url": "https://x.com/elonmusk/status/2114507338249875500",
-      "views": 4360241,
-      "likes": 40200,
-      "reposts": 5131,
-      "replies": 2832,
-      "bookmarks": 777,
-      "posted_at": "2026-10-26T00:00:09.000Z",
-      "original_en": "True https://t.co/LqZ4gQIQZw",
-      "text": "True https://t.co/LqZ4gQIQZw",
-      "followers": 241536885,
+      "url": "https://x.com/elonmusk/status/2114931068365414757",
+      "views": 1619286,
+      "likes": 13746,
+      "reposts": 864,
+      "replies": 920,
+      "bookmarks": 355,
+      "posted_at": "2026-10-27T04:03:54.000Z",
+      "original_en": "🤭 https://t.co/L17SU1lShU",
+      "text": "🤭 https://t.co/L17SU1lShU",
+      "followers": 241539373,
       "star": true,
+      "highlight": true,
       "is_quote": true,
+      "board_rank": 6,
+      "draft_en": "Tesla vs Waymo in Houston - only one of them walked away looking good 🤭",
+      "draft_keywords": [],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.0,
+        "max_copied_run": 0
+      },
+      "top10_rank": 6,
       "why_hit": {
         "trend_match": 0,
         "verdict": "author/audience",
@@ -104,274 +159,37 @@
         "media": "no data",
         "note": "media: no data, followers: no data (estimate from reach >= 500K)",
         "topic": null
-      }
+      },
+      "hook": "Elon só com emoji 🤭 em cima de 'Tesla vs Waymo em Houston'.",
+      "video_tip": "Emoji-only depende 100% do quote: se adaptar, faça um split-screen 10s Tesla vs Waymo com legenda e um único emoji. Sem texto longo."
     },
     {
-      "id": "2114431411994386599",
+      "id": "2114936152205697247",
       "handle": "@elonmusk",
       "name": "Elon Musk",
-      "url": "https://x.com/elonmusk/status/2114431411994386599",
-      "views": 4115301,
-      "likes": 81271,
-      "reposts": 13320,
-      "replies": 8755,
-      "bookmarks": 2360,
-      "posted_at": "2026-10-25T18:58:27.000Z",
-      "original_en": "May the bloodthirsty warmongers, who push for a war that never ends, burn in hell! https://t.co/9jOOFlBLlN",
-      "text": "May the bloodthirsty warmongers, who push for a war that never ends, burn in hell! https://t.co/9jOOFlBLlN",
-      "followers": 241536885,
-      "star": true,
-      "is_quote": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "author/audience",
-        "matched_keywords": [],
-        "media": "no data",
-        "note": "media: no data, followers: no data (estimate from reach >= 500K)",
-        "topic": null
-      }
-    },
-    {
-      "id": "2114461409811816467",
-      "handle": "@elonmusk",
-      "name": "Elon Musk",
-      "url": "https://x.com/elonmusk/status/2114461409811816467",
-      "views": 3922486,
-      "likes": 44426,
-      "reposts": 7011,
-      "replies": 2044,
-      "bookmarks": 472,
-      "posted_at": "2026-10-25T20:57:39.000Z",
-      "original_en": "Talarico is a FAR LEFT extremist https://t.co/GJI8d4OZfb",
-      "text": "Talarico is a FAR LEFT extremist https://t.co/GJI8d4OZfb",
-      "followers": 241536885,
-      "star": true,
-      "is_quote": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "author/audience",
-        "matched_keywords": [],
-        "media": "no data",
-        "note": "media: no data, followers: no data (estimate from reach >= 500K)",
-        "topic": null
-      }
-    },
-    {
-      "id": "2114455152136745221",
-      "handle": "@elonmusk",
-      "name": "Elon Musk",
-      "url": "https://x.com/elonmusk/status/2114455152136745221",
-      "views": 3838577,
-      "likes": 63346,
-      "reposts": 6714,
-      "replies": 3961,
-      "bookmarks": 1149,
-      "posted_at": "2026-10-25T20:32:47.000Z",
-      "original_en": "No ID is required to vote in New York State or California https://t.co/5ah1KttYHU",
-      "text": "No ID is required to vote in New York State or California https://t.co/5ah1KttYHU",
-      "followers": 241536885,
-      "star": true,
-      "is_quote": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "author/audience",
-        "matched_keywords": [],
-        "media": "no data",
-        "note": "media: no data, followers: no data (estimate from reach >= 500K)",
-        "topic": null
-      }
-    },
-    {
-      "id": "2114370625582330326",
-      "handle": "@elonmusk",
-      "name": "Elon Musk",
-      "url": "https://x.com/elonmusk/status/2114370625582330326",
-      "views": 2984434,
-      "likes": 30826,
-      "reposts": 2067,
-      "replies": 1986,
-      "bookmarks": 872,
-      "posted_at": "2026-10-25T14:56:54.000Z",
-      "original_en": "A cunning move by Aer Lingus 😉 https://t.co/7OSgfzFjcj",
-      "text": "A cunning move by Aer Lingus 😉 https://t.co/7OSgfzFjcj",
-      "followers": 241536885,
-      "star": true,
-      "is_quote": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "author/audience",
-        "matched_keywords": [],
-        "media": "no data",
-        "note": "media: no data, followers: no data (estimate from reach >= 500K)",
-        "topic": null
-      }
-    },
-    {
-      "id": "2114375896073216334",
-      "handle": "@elonmusk",
-      "name": "Elon Musk",
-      "url": "https://x.com/elonmusk/status/2114375896073216334",
-      "views": 2797715,
-      "likes": 10468,
-      "reposts": 1059,
-      "replies": 1392,
-      "bookmarks": 897,
-      "posted_at": "2026-10-25T15:17:51.000Z",
-      "original_en": "The best way to use Grok @Bot is assume you are hiring a super competent employee https://t.co/jTdE4IGEcC",
-      "text": "The best way to use Grok @Bot is assume you are hiring a super competent employee https://t.co/jTdE4IGEcC",
-      "followers": 241536885,
-      "star": true,
-      "is_quote": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "author/audience",
-        "matched_keywords": [],
-        "media": "no data",
-        "note": "media: no data, followers: no data (estimate from reach >= 500K)",
-        "topic": "Grok Bot"
-      }
-    },
-    {
-      "id": "2114365361068138990",
-      "handle": "@elonmusk",
-      "name": "Elon Musk",
-      "url": "https://x.com/elonmusk/status/2114365361068138990",
-      "views": 2785133,
-      "likes": 16777,
-      "reposts": 1631,
-      "replies": 2127,
-      "bookmarks": 3948,
-      "posted_at": "2026-10-25T14:35:59.000Z",
-      "original_en": "Grok @Bot can now call someone or a business for you, make a request on your behalf, take notes on the response and send you a note summarizing the conversation! https://t.co/9Gs0F6sQB1",
-      "text": "Grok @Bot can now call someone or a business for you, make a request on your behalf, take notes on the response and send you a note summarizing the conversation! https://t.co/9Gs0F6sQB1",
-      "followers": 241536885,
-      "star": true,
-      "is_quote": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "author/audience",
-        "matched_keywords": [],
-        "media": "no data",
-        "note": "media: no data, followers: no data (estimate from reach >= 500K)",
-        "topic": "Grok Bot"
-      }
-    },
-    {
-      "id": "2114205004340854795",
-      "handle": "@elonmusk",
-      "name": "Elon Musk",
-      "url": "https://x.com/elonmusk/status/2114205004340854795",
-      "views": 2607325,
-      "likes": 11475,
-      "reposts": 961,
-      "replies": 863,
-      "bookmarks": 1949,
-      "posted_at": "2026-10-25T03:58:47.000Z",
-      "original_en": "The way to think about this is:\n\nHow many super smart and dedicated people do you want to hire? And they keep getting better. https://t.co/pfnAf3efnM",
-      "text": "The way to think about this is:\n\nHow many super smart and dedicated people do you want to hire? And they keep getting better. https://t.co/pfnAf3efnM",
-      "followers": 241536885,
-      "star": true,
-      "is_quote": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "author/audience",
-        "matched_keywords": [],
-        "media": "no data",
-        "note": "media: no data, followers: no data (estimate from reach >= 500K)",
-        "topic": null
-      }
-    },
-    {
-      "id": "2114242922006897145",
-      "handle": "@elonmusk",
-      "name": "Elon Musk",
-      "url": "https://x.com/elonmusk/status/2114242922006897145",
-      "views": 2421695,
-      "likes": 16348,
-      "reposts": 1546,
-      "replies": 982,
-      "bookmarks": 6186,
-      "posted_at": "2026-10-25T06:29:27.000Z",
-      "original_en": "Cool https://t.co/oul4HcQaQ3",
-      "text": "Cool https://t.co/oul4HcQaQ3",
-      "followers": 241536885,
-      "star": true,
-      "is_quote": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "author/audience",
-        "matched_keywords": [],
-        "media": "no data",
-        "note": "media: no data, followers: no data (estimate from reach >= 500K)",
-        "topic": null
-      }
-    },
-    {
-      "id": "2114205997350690837",
-      "handle": "@elonmusk",
-      "name": "Elon Musk",
-      "url": "https://x.com/elonmusk/status/2114205997350690837",
-      "views": 2147733,
-      "likes": 17603,
-      "reposts": 2041,
-      "replies": 1869,
-      "bookmarks": 549,
-      "posted_at": "2026-10-25T04:02:44.000Z",
-      "original_en": "Back to the Moon https://t.co/UOw8BtQEY9",
-      "text": "Back to the Moon https://t.co/UOw8BtQEY9",
-      "followers": 241536885,
-      "star": true,
-      "is_quote": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "author/audience",
-        "matched_keywords": [],
-        "media": "no data",
-        "note": "media: no data, followers: no data (estimate from reach >= 500K)",
-        "topic": null
-      }
-    },
-    {
-      "id": "2114442930891206870",
-      "handle": "@elonmusk",
-      "name": "Elon Musk",
-      "url": "https://x.com/elonmusk/status/2114442930891206870",
-      "views": 2133261,
-      "likes": 23908,
-      "reposts": 3846,
-      "replies": 2666,
-      "bookmarks": 593,
-      "posted_at": "2026-10-25T19:44:13.000Z",
-      "original_en": "And still it continues … https://t.co/iYtuYHxWSw",
-      "text": "And still it continues … https://t.co/iYtuYHxWSw",
-      "followers": 241536885,
-      "star": true,
-      "is_quote": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "author/audience",
-        "matched_keywords": [],
-        "media": "no data",
-        "note": "media: no data, followers: no data (estimate from reach >= 500K)",
-        "topic": null
-      }
-    },
-    {
-      "id": "2114513919566033266",
-      "handle": "@elonmusk",
-      "name": "Elon Musk",
-      "url": "https://x.com/elonmusk/status/2114513919566033266",
-      "views": 2060816,
-      "likes": 21493,
-      "reposts": 2101,
-      "replies": 1560,
+      "url": "https://x.com/elonmusk/status/2114936152205697247",
+      "views": 1572866,
+      "likes": 10758,
+      "reposts": 1236,
+      "replies": 993,
       "bookmarks": 444,
-      "posted_at": "2026-10-26T00:26:18.000Z",
-      "original_en": "Starship Flight 15 static fire https://t.co/KHi3mBV79r",
-      "text": "Starship Flight 15 static fire https://t.co/KHi3mBV79r",
-      "followers": 241536885,
+      "posted_at": "2026-10-27T04:24:06.000Z",
+      "original_en": "A Storm of Cybercabs https://t.co/biqFEwbJny",
+      "text": "A Storm of Cybercabs https://t.co/biqFEwbJny",
+      "followers": 241539373,
       "star": true,
+      "highlight": true,
       "is_quote": true,
+      "board_rank": 7,
+      "draft_en": "Picture a whole swarm of Cybercabs on the move. That is the vibe.",
+      "draft_keywords": [],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.167,
+        "max_copied_run": 2
+      },
+      "top10_rank": 7,
       "why_hit": {
         "trend_match": 0,
         "verdict": "author/audience",
@@ -379,49 +197,37 @@
         "media": "no data",
         "note": "media: no data, followers: no data (estimate from reach >= 500K)",
         "topic": null
-      }
+      },
+      "hook": "'A Storm of Cybercabs': Elon cita vídeo de vários Cybercabs.",
+      "video_tip": "Vídeo 10-15s de frota em movimento (drone/timelapse) com legenda curta; o formato vídeo nativo é o que carrega o alcance."
     },
     {
-      "id": "2114364277595488330",
+      "id": "2114967042952687676",
       "handle": "@elonmusk",
       "name": "Elon Musk",
-      "url": "https://x.com/elonmusk/status/2114364277595488330",
-      "views": 1924606,
-      "likes": 4112,
-      "reposts": 536,
-      "replies": 600,
-      "bookmarks": 126,
-      "posted_at": "2026-10-25T14:31:41.000Z",
-      "original_en": "Try Grok @Bot https://t.co/1c4zZzxaG9",
-      "text": "Try Grok @Bot https://t.co/1c4zZzxaG9",
-      "followers": 241536885,
+      "url": "https://x.com/elonmusk/status/2114967042952687676",
+      "views": 1558642,
+      "likes": 12290,
+      "reposts": 1731,
+      "replies": 891,
+      "bookmarks": 722,
+      "posted_at": "2026-10-27T06:26:51.000Z",
+      "original_en": "He’s right https://t.co/UPCtJmwJ1e",
+      "text": "He’s right https://t.co/UPCtJmwJ1e",
+      "followers": 241539373,
       "star": true,
+      "highlight": true,
       "is_quote": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "author/audience",
-        "matched_keywords": [],
-        "media": "no data",
-        "note": "media: no data, followers: no data (estimate from reach >= 500K)",
-        "topic": "Grok Bot"
-      }
-    },
-    {
-      "id": "2114235125496250766",
-      "handle": "@elonmusk",
-      "name": "Elon Musk",
-      "url": "https://x.com/elonmusk/status/2114235125496250766",
-      "views": 1433651,
-      "likes": 10271,
-      "reposts": 2038,
-      "replies": 947,
-      "bookmarks": 233,
-      "posted_at": "2026-10-25T05:58:29.000Z",
-      "original_en": "True https://t.co/Sks2UDWJ9Q",
-      "text": "True https://t.co/Sks2UDWJ9Q",
-      "followers": 241536885,
-      "star": true,
-      "is_quote": true,
+      "board_rank": 8,
+      "draft_en": "Newsom says the DSA is set to become mainstream inside the Democratic Party. On that point, he is correct.",
+      "draft_keywords": [],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.0,
+        "max_copied_run": 0
+      },
+      "top10_rank": 8,
       "why_hit": {
         "trend_match": 0,
         "verdict": "author/audience",
@@ -429,7 +235,9 @@
         "media": "no data",
         "note": "media: no data, followers: no data (estimate from reach >= 500K)",
         "topic": null
-      }
+      },
+      "hook": "Elon concorda com Newsom sobre o DSA virar mainstream entre os democratas.",
+      "video_tip": "Tema político/EUA fora do nicho de IA: pular. Se usar, só como case de quote-post de 2 palavras."
     }
   ],
   "virals": [
@@ -438,310 +246,207 @@
       "handle": "@AnthropicAI",
       "name": "Anthropic",
       "url": "https://x.com/AnthropicAI/status/2114705042817110293",
-      "views": 5690874,
-      "likes": 15735,
-      "reposts": 1982,
-      "replies": 1093,
-      "bookmarks": 2628,
+      "views": 7596883,
+      "likes": 17429,
+      "reposts": 2272,
+      "replies": 1232,
+      "bookmarks": 3075,
       "posted_at": "2026-10-26T13:05:46.000Z",
       "original_en": "Anthropic has filed an S-1 registration statement with the SEC related to its proposed IPO.\n\nRead more: https://t.co/zuRMrxXzNx\n\nLegal disclaimer: A registration statement relating to these securities has been filed with the SEC but has not yet become effective. These securities",
       "text": "Anthropic has filed an S-1 registration statement with the SEC related to its proposed IPO.\n\nRead more: https://t.co/zuRMrxXzNx\n\nLegal disclaimer: A registration statement relating to these securities has been filed with the SEC but has not yet become effective. These securities",
-      "followers": 1844078,
+      "followers": 1846286,
       "star": true,
+      "highlight": true,
       "is_quote": false,
+      "board_rank": 1,
+      "draft_en": "Big moment for the AI market: Anthropic just put its S-1 on file with the SEC, the formal first step toward going public. The company behind Claude is heading for an IPO. Mind the fine print though - the registration is filed but not effective yet, so nothing is on sale today.",
+      "draft_keywords": [
+        "Anthropic",
+        "Claude"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.32,
+        "max_copied_run": 3
+      },
+      "top10_rank": 1,
       "why_hit": {
-        "trend_match": 0,
+        "trend_match": 35,
         "verdict": "author/audience",
-        "matched_keywords": [],
+        "matched_keywords": [
+          "Anthropic"
+        ],
         "media": "no data",
         "note": "media: no data, followers: no data (estimate from reach >= 500K)",
-        "topic": null
-      }
+        "topic": "AI IPO"
+      },
+      "hook": "Anthropic entrou com o S-1 na SEC: o IPO da dona do Claude começou oficialmente.",
+      "video_tip": "Vídeo vertical 30-45s: print do tweet + tela do S-1 na SEC, você explicando em 3 bullets o que é um S-1 e o que 'ainda não efetivo' significa. Legenda grande."
     },
     {
       "id": "2114780711664398349",
       "handle": "@OpenAI",
       "name": "OpenAI",
       "url": "https://x.com/OpenAI/status/2114780711664398349",
-      "views": 2802128,
-      "likes": 21533,
-      "reposts": 1863,
-      "replies": 1120,
-      "bookmarks": 3365,
+      "views": 4476435,
+      "likes": 25704,
+      "reposts": 2262,
+      "replies": 1406,
+      "bookmarks": 3943,
       "posted_at": "2026-10-26T18:06:27.000Z",
       "original_en": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price.\n\nGPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it. https://t.co/8JTN1yonmV",
       "text": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price.\n\nGPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it. https://t.co/8JTN1yonmV",
-      "followers": 5478901,
+      "followers": 5482078,
       "star": true,
+      "highlight": true,
       "is_quote": false,
-      "visual_type": "video",
+      "media": "video",
+      "board_rank": 2,
+      "draft_en": "OpenAI's pitch for GPT-6.1 Terra is simple: computer use that is quicker, sharper and cheaper. The model reads what is on your screen, acts across apps, writes like a person - and is built to carry more of the workday without burning more budget.",
+      "draft_keywords": [
+        "OpenAI",
+        "GPT-6.1 Terra",
+        "model"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.391,
+        "max_copied_run": 3
+      },
+      "top10_rank": 2,
       "why_hit": {
-        "trend_match": 58,
+        "trend_match": 82,
         "verdict": "trend",
         "matched_keywords": [
+          "Terra",
+          "model",
           "GPT-6.1 Terra",
-          "model"
+          "6.1 Terra"
         ],
-        "media": "no data",
-        "note": "media: no data, followers: no data",
-        "topic": "agents / GPT-6.1 Terra"
-      }
+        "media": "video",
+        "note": "followers: no data",
+        "topic": "Computer use"
+      },
+      "hook": "GPT-6.1 Terra: computer use mais rápido e mais barato, agora no ChatGPT, Codex e API.",
+      "video_tip": "Screencast 45-60s: o Terra executando uma tarefa real no seu desktop (ex.: preencher planilha a partir de PDF), cronômetro no canto, corte seco no resultado."
     },
     {
-      "id": "2114837059462627533",
-      "handle": "@gdb",
-      "name": "Greg Brockman",
-      "url": "https://x.com/gdb/status/2114837059462627533",
-      "views": 618381,
-      "likes": 6717,
-      "reposts": 753,
-      "replies": 313,
-      "bookmarks": 1725,
-      "posted_at": "2026-10-26T21:50:21.000Z",
-      "original_en": "Announcing three major scientific discoveries, one each in mathematics (harmonic analysis), computer science (complexity theory), and physics (quantum field theory).\n\nAI starting to help us improve our understanding of the universe! https://t.co/VkfacopR2R",
-      "text": "Announcing three major scientific discoveries, one each in mathematics (harmonic analysis), computer science (complexity theory), and physics (quantum field theory).\n\nAI starting to help us improve our understanding of the universe! https://t.co/VkfacopR2R",
-      "followers": 1078367,
+      "id": "2114938847704571975",
+      "handle": "@bindureddy",
+      "name": "Bindu Reddy",
+      "url": "https://x.com/bindureddy/status/2114938847704571975",
+      "views": 1053743,
+      "likes": 269,
+      "reposts": 15,
+      "replies": 57,
+      "bookmarks": 190,
+      "posted_at": "2026-10-27T04:34:49.000Z",
+      "original_en": "🚨 Announcing Smaug Humanizer - Humanize your AI-generated text in your tone\n\n- open-weights dropped on HF\n- plug-and-play to humanize your text\n- sound more human and less robotic\n- built on Gemma\n\nDestroy AI-slop and bring creativity back to the internet https://t.co/iA9VXboLBI",
+      "text": "🚨 Announcing Smaug Humanizer - Humanize your AI-generated text in your tone\n\n- open-weights dropped on HF\n- plug-and-play to humanize your text\n- sound more human and less robotic\n- built on Gemma\n\nDestroy AI-slop and bring creativity back to the internet https://t.co/iA9VXboLBI",
+      "followers": 395991,
       "star": true,
+      "highlight": true,
       "is_quote": false,
+      "media": "image",
+      "board_rank": 9,
+      "draft_en": "Tired of copy that reads like a robot wrote it? Smaug Humanizer just shipped with open weights on HF. It sits on top of Gemma, plugs straight into your stack and rewrites AI-generated drafts in your own voice so they sound human again. The goal: kill the AI slop and put creativity back online.",
+      "draft_keywords": [
+        "Smaug Humanizer"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.25,
+        "max_copied_run": 2
+      },
+      "top10_rank": 9,
       "why_hit": {
         "trend_match": 0,
-        "verdict": "author/audience",
+        "verdict": "visual",
         "matched_keywords": [],
-        "media": "no data",
-        "note": "media: no data, followers: no data (estimate from reach >= 500K)",
-        "topic": null
-      }
+        "media": "image",
+        "note": "followers: no data",
+        "topic": "Open weights"
+      },
+      "hook": "Smaug Humanizer: modelo open-weights (base Gemma) que 'humaniza' texto gerado por IA no seu tom.",
+      "video_tip": "Antes/depois em vídeo 30s: mesmo parágrafo de LLM cru vs humanizado, destaque das diferenças em amarelo, pergunta final 'qual soa humano?'."
     },
     {
       "id": "2114780227465338985",
       "handle": "@claudeai",
       "name": "Claude",
       "url": "https://x.com/claudeai/status/2114780227465338985",
-      "views": 404509,
-      "likes": 4669,
-      "reposts": 207,
-      "replies": 244,
-      "bookmarks": 857,
+      "views": 601466,
+      "likes": 6073,
+      "reposts": 282,
+      "replies": 313,
+      "bookmarks": 1137,
       "posted_at": "2026-10-26T18:04:31.000Z",
       "original_en": "More than 25,000 nonprofits now use Claude. Most are small, local teams.\n\nWe’re expanding Claude for Nonprofits with a plugin built with around 30 of them, adding skills for fundraising, marketing, and hiring grounded in each team’s context and AI policy: https://t.co/LWHcr1CT20 https://t.co/WHG2zRDyxO",
       "text": "More than 25,000 nonprofits now use Claude. Most are small, local teams.\n\nWe’re expanding Claude for Nonprofits with a plugin built with around 30 of them, adding skills for fundraising, marketing, and hiring grounded in each team’s context and AI policy: https://t.co/LWHcr1CT20 https://t.co/WHG2zRDyxO",
-      "followers": 1957118,
+      "followers": 1959007,
       "star": true,
+      "highlight": true,
       "is_quote": true,
+      "board_rank": 10,
+      "draft_en": "Over 25,000 nonprofits run on Claude today, and most of them are small local crews. Anthropic is widening Claude for Nonprofits with a plugin co-designed with around 30 of those orgs - new skills for hiring, marketing and fundraising that respect each team's own context and AI policy.",
+      "draft_keywords": [
+        "Claude",
+        "Anthropic",
+        "local"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.111,
+        "word_overlap": 0.667,
+        "max_copied_run": 6
+      },
+      "top10_rank": 10,
       "why_hit": {
-        "trend_match": 0,
-        "verdict": "coincidence/other",
-        "matched_keywords": [],
+        "trend_match": 49,
+        "verdict": "author/audience",
+        "matched_keywords": [
+          "Claude",
+          "local"
+        ],
         "media": "no data",
-        "note": "media: no data, followers: no data",
-        "topic": null
-      }
-    },
-    {
-      "id": "2114787151619485852",
-      "handle": "@paulg",
-      "name": "Paul Graham",
-      "url": "https://x.com/paulg/status/2114787151619485852",
-      "views": 390157,
-      "likes": 7033,
-      "reposts": 624,
-      "replies": 390,
-      "bookmarks": 1450,
-      "posted_at": "2026-10-26T18:32:02.000Z",
-      "original_en": "We're about to enter a period where not reading or writing becomes as ubiquitous as smoking once was. We can hope people will eventually realize this is bad for them, as they did with smoking. But this is far from certain; the cost may not be as obvious.",
-      "text": "We're about to enter a period where not reading or writing becomes as ubiquitous as smoking once was. We can hope people will eventually realize this is bad for them, as they did with smoking. But this is far from certain; the cost may not be as obvious.",
-      "followers": 5441499,
-      "star": true,
-      "is_quote": false,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "coincidence/other",
-        "matched_keywords": [],
-        "media": "no data",
-        "note": "media: no data, followers: no data",
-        "topic": null
-      }
-    },
-    {
-      "id": "2114751107293749731",
-      "handle": "@pmarca",
-      "name": "Marc Andreessen 🇺🇸",
-      "url": "https://x.com/pmarca/status/2114751107293749731",
-      "views": 223289,
-      "likes": 1309,
-      "reposts": 169,
-      "replies": 87,
-      "bookmarks": 1769,
-      "posted_at": "2026-10-26T16:08:48.000Z",
-      "original_en": "https://t.co/rv1SShz6q8",
-      "text": "https://t.co/rv1SShz6q8",
-      "followers": 6665982,
-      "star": true,
-      "is_quote": false,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "coincidence/other",
-        "matched_keywords": [],
-        "media": "no data",
-        "note": "media: no data, followers: no data",
-        "topic": null
-      }
+        "note": "media: no data, followers: no data (estimate from reach >= 500K)",
+        "topic": "AI IPO"
+      },
+      "hook": "Mais de 25 mil ONGs já usam o Claude; Anthropic lança plugin com skills de captação, marketing e contratação.",
+      "video_tip": "Carrossel ou vídeo 30s: 3 skills (captação, marketing, contratação) em 3 cards, com exemplo de uso numa ONG local brasileira."
     },
     {
       "id": "2114793714531102901",
       "handle": "@cursor_ai",
       "name": "Cursor",
       "url": "https://x.com/cursor_ai/status/2114793714531102901",
-      "views": 214797,
-      "likes": 2744,
-      "reposts": 168,
-      "replies": 257,
-      "bookmarks": 1428,
+      "views": 324688,
+      "likes": 3503,
+      "reposts": 247,
+      "replies": 363,
+      "bookmarks": 1887,
       "posted_at": "2026-10-26T18:58:07.000Z",
       "original_en": "The Agent SDK is now available.\n\nDefine agents as code, with prompts in Markdown and tools in TypeScript. Deploy them on our hosted infrastructure, or run them on your own.\n\nBuilt-in evals let you measure every change and make your agents better over time. https://t.co/sww7EXYBFI",
       "text": "The Agent SDK is now available.\n\nDefine agents as code, with prompts in Markdown and tools in TypeScript. Deploy them on our hosted infrastructure, or run them on your own.\n\nBuilt-in evals let you measure every change and make your agents better over time. https://t.co/sww7EXYBFI",
-      "followers": 493579,
+      "followers": 494034,
       "star": true,
+      "highlight": true,
       "is_quote": false,
-      "visual_type": "video",
-      "why_hit": {
-        "trend_match": 35,
-        "verdict": "coincidence/other",
-        "matched_keywords": [
-          "agents"
-        ],
-        "media": "no data",
-        "note": "media: no data, followers: no data",
-        "topic": "agents / GPT-6.1 Terra"
-      }
-    },
-    {
-      "id": "2114792905973838057",
-      "handle": "@levelsio",
-      "name": "@levelsio",
-      "url": "https://x.com/levelsio/status/2114792905973838057",
-      "views": 209039,
-      "likes": 1442,
-      "reposts": 26,
-      "replies": 92,
-      "bookmarks": 513,
-      "posted_at": "2026-10-26T18:54:54.000Z",
-      "original_en": "Google is down bad for no apparent reason \n\nSo today I have been loading up on $GOOG stock (well $GOOGL but they're mostly the same) for in my eyes very cheap\n\nI just Facetime'd with my dad and we talked about ChatGPT and he answered \"yes I cancelled my ChatGPT because it's on https://t.co/RE788ZYvht https://t.co/HdFNoCgQct",
-      "text": "Google is down bad for no apparent reason \n\nSo today I have been loading up on $GOOG stock (well $GOOGL but they're mostly the same) for in my eyes very cheap\n\nI just Facetime'd with my dad and we talked about ChatGPT and he answered \"yes I cancelled my ChatGPT because it's on https://t.co/RE788ZYvht https://t.co/HdFNoCgQct",
-      "followers": 982665,
-      "star": true,
-      "is_quote": true,
-      "visual_type": "photo",
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "coincidence/other",
-        "matched_keywords": [],
-        "media": "no data",
-        "note": "media: no data, followers: no data",
-        "topic": null
-      }
-    },
-    {
-      "id": "2114700426528575817",
-      "handle": "@levelsio",
-      "name": "@levelsio",
-      "url": "https://x.com/levelsio/status/2114700426528575817",
-      "views": 156368,
-      "likes": 1910,
-      "reposts": 48,
-      "replies": 116,
-      "bookmarks": 857,
-      "posted_at": "2026-10-26T12:47:25.000Z",
-      "original_en": "I keep saying this but if you understand basic economics the only one winning here is Big AI and Big Tech\n\nIt's a race to the bottom for anyone else in software\n\nSo try become a co-owner of big AI and Big Tech stock and survive off their dividends and/or stock appreciation https://t.co/KjqtWa2eA0",
-      "text": "I keep saying this but if you understand basic economics the only one winning here is Big AI and Big Tech\n\nIt's a race to the bottom for anyone else in software\n\nSo try become a co-owner of big AI and Big Tech stock and survive off their dividends and/or stock appreciation https://t.co/KjqtWa2eA0",
-      "followers": 982665,
-      "star": true,
-      "is_quote": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "coincidence/other",
-        "matched_keywords": [],
-        "media": "no data",
-        "note": "media: no data, followers: no data",
-        "topic": null
-      }
-    },
-    {
-      "id": "2114860693585563907",
-      "handle": "@gdb",
-      "name": "Greg Brockman",
-      "url": "https://x.com/gdb/status/2114860693585563907",
-      "views": 124726,
-      "likes": 2613,
-      "reposts": 118,
-      "replies": 168,
-      "bookmarks": 176,
-      "posted_at": "2026-10-26T23:24:16.000Z",
-      "original_en": "p still probably doesn't equal np",
-      "text": "p still probably doesn't equal np",
-      "followers": 1078367,
-      "star": true,
-      "is_quote": false,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "coincidence/other",
-        "matched_keywords": [],
-        "media": "no data",
-        "note": "media: no data, followers: no data",
-        "topic": null
-      }
-    },
-    {
-      "id": "2114780986613682473",
-      "handle": "@OpenAIDevs",
-      "name": "OpenAI Developers",
-      "url": "https://x.com/OpenAIDevs/status/2114780986613682473",
-      "views": 104077,
-      "likes": 1704,
-      "reposts": 87,
-      "replies": 128,
-      "bookmarks": 184,
-      "posted_at": "2026-10-26T18:07:32.000Z",
-      "original_en": "GPT-6.1 Terra is also coming to the API and Codex.\n\nUse Terra to build apps and agents that interpret images, navigate software, and take action. You get fast computer use at a lower cost, ideal for high-volume workflows. https://t.co/kYjK7mn4Bq",
-      "text": "GPT-6.1 Terra is also coming to the API and Codex.\n\nUse Terra to build apps and agents that interpret images, navigate software, and take action. You get fast computer use at a lower cost, ideal for high-volume workflows. https://t.co/kYjK7mn4Bq",
-      "followers": 466070,
-      "star": true,
-      "is_quote": true,
+      "media": "video",
+      "board_rank": 11,
       "why_hit": {
         "trend_match": 58,
         "verdict": "trend",
         "matched_keywords": [
           "agents",
-          "GPT-6.1 Terra"
+          "Code"
         ],
-        "media": "no data",
-        "note": "media: no data, followers: no data",
-        "topic": "agents / GPT-6.1 Terra"
-      }
-    },
-    {
-      "id": "2114791686761247162",
-      "handle": "@paulg",
-      "name": "Paul Graham",
-      "url": "https://x.com/paulg/status/2114791686761247162",
-      "views": 101358,
-      "likes": 984,
-      "reposts": 29,
-      "replies": 81,
-      "bookmarks": 137,
-      "posted_at": "2026-10-26T18:50:03.000Z",
-      "original_en": "The reason UK universities demand more equity than US universities in \"spin outs\" is not that they're tougher negotiators. It's that they're too inexperienced to realize they're charging over market rate.",
-      "text": "The reason UK universities demand more equity than US universities in \"spin outs\" is not that they're tougher negotiators. It's that they're too inexperienced to realize they're charging over market rate.",
-      "followers": 5441499,
-      "star": true,
-      "is_quote": false,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "coincidence/other",
-        "matched_keywords": [],
-        "media": "no data",
-        "note": "media: no data, followers: no data",
-        "topic": null
+        "media": "video",
+        "note": "followers: no data",
+        "topic": "Coding agents"
       }
     },
     {
@@ -749,18 +454,377 @@
       "handle": "@cursor_ai",
       "name": "Cursor",
       "url": "https://x.com/cursor_ai/status/2114839997568405608",
-      "views": 100917,
-      "likes": 1843,
-      "reposts": 102,
-      "replies": 163,
-      "bookmarks": 200,
+      "views": 258832,
+      "likes": 3374,
+      "reposts": 173,
+      "replies": 290,
+      "bookmarks": 356,
       "posted_at": "2026-10-26T22:02:01.000Z",
       "original_en": "DeepSeek V4.1 Flash is now available in Cursor!\n\nEvery effort level sits on the CursorBench cost frontier: from $0.60 to $0.98 per task, no model scores higher.\n\nTurn it on in Cursor Settings &gt; Models. https://t.co/QNQmJpaOa0",
       "text": "DeepSeek V4.1 Flash is now available in Cursor!\n\nEvery effort level sits on the CursorBench cost frontier: from $0.60 to $0.98 per task, no model scores higher.\n\nTurn it on in Cursor Settings &gt; Models. https://t.co/QNQmJpaOa0",
-      "followers": 493579,
+      "followers": 494034,
       "star": true,
+      "highlight": true,
       "is_quote": false,
-      "visual_type": "photo",
+      "media": "image",
+      "board_rank": 12,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "model"
+        ],
+        "media": "image",
+        "note": "followers: no data",
+        "topic": "Coding agents"
+      }
+    },
+    {
+      "id": "2114780986613682473",
+      "handle": "@OpenAIDevs",
+      "name": "OpenAI Developers",
+      "url": "https://x.com/OpenAIDevs/status/2114780986613682473",
+      "views": 127222,
+      "likes": 2030,
+      "reposts": 122,
+      "replies": 149,
+      "bookmarks": 199,
+      "posted_at": "2026-10-26T18:07:32.000Z",
+      "original_en": "GPT-6.1 Terra is also coming to the API and Codex.\n\nUse Terra to build apps and agents that interpret images, navigate software, and take action. You get fast computer use at a lower cost, ideal for high-volume workflows. https://t.co/kYjK7mn4Bq",
+      "text": "GPT-6.1 Terra is also coming to the API and Codex.\n\nUse Terra to build apps and agents that interpret images, navigate software, and take action. You get fast computer use at a lower cost, ideal for high-volume workflows. https://t.co/kYjK7mn4Bq",
+      "followers": 466356,
+      "star": true,
+      "highlight": true,
+      "is_quote": true,
+      "board_rank": 13,
+      "why_hit": {
+        "trend_match": 86,
+        "verdict": "trend",
+        "matched_keywords": [
+          "agents",
+          "Terra",
+          "GPT-6.1 Terra",
+          "6.1 Terra",
+          "Codex"
+        ],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": "Computer use"
+      }
+    },
+    {
+      "id": "2114912639298191807",
+      "handle": "@theo",
+      "name": "Theo - t3.gg",
+      "url": "https://x.com/theo/status/2114912639298191807",
+      "views": 123250,
+      "likes": 1847,
+      "reposts": 20,
+      "replies": 68,
+      "bookmarks": 290,
+      "posted_at": "2026-10-27T02:50:41.000Z",
+      "original_en": "Never seen ChatGPT get so serious so fast before https://t.co/IHMdpReRFP https://t.co/lgDS7m8opv",
+      "text": "Never seen ChatGPT get so serious so fast before https://t.co/IHMdpReRFP https://t.co/lgDS7m8opv",
+      "followers": 415117,
+      "star": true,
+      "highlight": true,
+      "is_quote": true,
+      "media": "image",
+      "board_rank": 14,
+      "why_hit": {
+        "trend_match": 22,
+        "verdict": "visual",
+        "matched_keywords": [
+          "ChatGPT"
+        ],
+        "media": "image",
+        "note": "followers: no data",
+        "topic": "Computer use"
+      }
+    },
+    {
+      "id": "2114963025409257706",
+      "handle": "@theo",
+      "name": "Theo - t3.gg",
+      "url": "https://x.com/theo/status/2114963025409257706",
+      "views": 86653,
+      "likes": 3027,
+      "reposts": 113,
+      "replies": 273,
+      "bookmarks": 231,
+      "posted_at": "2026-10-27T06:10:54.000Z",
+      "original_en": "The ability to build anything has come with a critical lesson:\n\nEngineers have really, really bad ideas.",
+      "text": "The ability to build anything has come with a critical lesson:\n\nEngineers have really, really bad ideas.",
+      "followers": 415117,
+      "star": true,
+      "highlight": true,
+      "is_quote": false,
+      "board_rank": 15,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "2114955692193054930",
+      "handle": "@theo",
+      "name": "Theo - t3.gg",
+      "url": "https://x.com/theo/status/2114955692193054930",
+      "views": 80959,
+      "likes": 1768,
+      "reposts": 30,
+      "replies": 127,
+      "bookmarks": 469,
+      "posted_at": "2026-10-27T05:41:45.000Z",
+      "original_en": "Day 23/\n\nYour agents will now use the tools in T3 Code 4x better while using 79% less context.\n\nThis one deserves more info, let me explain: https://t.co/R1drjC9xVa https://t.co/nFDy2KxY0w",
+      "text": "Day 23/\n\nYour agents will now use the tools in T3 Code 4x better while using 79% less context.\n\nThis one deserves more info, let me explain: https://t.co/R1drjC9xVa https://t.co/nFDy2KxY0w",
+      "followers": 415117,
+      "star": true,
+      "highlight": true,
+      "is_quote": true,
+      "media": "image",
+      "board_rank": 16,
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "agents",
+          "Code"
+        ],
+        "media": "image",
+        "note": "followers: no data",
+        "topic": "Coding agents"
+      }
+    },
+    {
+      "id": "2114978312426791384",
+      "handle": "@theo",
+      "name": "Theo - t3.gg",
+      "url": "https://x.com/theo/status/2114978312426791384",
+      "views": 72825,
+      "likes": 761,
+      "reposts": 10,
+      "replies": 35,
+      "bookmarks": 151,
+      "posted_at": "2026-10-27T07:11:38.000Z",
+      "original_en": "Best thing anyone shipped this week https://t.co/68K2NJ79D0",
+      "text": "Best thing anyone shipped this week https://t.co/68K2NJ79D0",
+      "followers": 415117,
+      "star": true,
+      "highlight": true,
+      "is_quote": true,
+      "board_rank": 17,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "2114827978748383342",
+      "handle": "@nvidia",
+      "name": "NVIDIA",
+      "url": "https://x.com/nvidia/status/2114827978748383342",
+      "views": 47462,
+      "likes": 385,
+      "reposts": 52,
+      "replies": 61,
+      "bookmarks": 35,
+      "posted_at": "2026-10-26T21:14:16.000Z",
+      "original_en": "After a breast cancer diagnosis, one of the hardest questions is whether it will come back.\n\n@SimBioSys is helping doctors and patients better understand that risk. Powered by NVIDIA technology, its FDA-cleared TumorSight Risk analyzes an existing breast MRI alongside pathology https://t.co/mbzSeRnE8l",
+      "text": "After a breast cancer diagnosis, one of the hardest questions is whether it will come back.\n\n@SimBioSys is helping doctors and patients better understand that risk. Powered by NVIDIA technology, its FDA-cleared TumorSight Risk analyzes an existing breast MRI alongside pathology https://t.co/mbzSeRnE8l",
+      "followers": 2694041,
+      "star": true,
+      "highlight": true,
+      "is_quote": false,
+      "media": "video",
+      "board_rank": 18,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "2114837274550747603",
+      "handle": "@OpenAIDevs",
+      "name": "OpenAI Developers",
+      "url": "https://x.com/OpenAIDevs/status/2114837274550747603",
+      "views": 42422,
+      "likes": 481,
+      "reposts": 40,
+      "replies": 57,
+      "bookmarks": 43,
+      "posted_at": "2026-10-26T21:51:12.000Z",
+      "original_en": "GPT-6.1 Sol is being used by @coderabbitai to help developers find security risks across complex codebases.\n\nhttps://t.co/CshBD68xD7",
+      "text": "GPT-6.1 Sol is being used by @coderabbitai to help developers find security risks across complex codebases.\n\nhttps://t.co/CshBD68xD7",
+      "followers": 466356,
+      "star": true,
+      "highlight": true,
+      "is_quote": false,
+      "board_rank": 19,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "2114890745471545419",
+      "handle": "@amasad",
+      "name": "Amjad Masad",
+      "url": "https://x.com/amasad/status/2114890745471545419",
+      "views": 37493,
+      "likes": 557,
+      "reposts": 30,
+      "replies": 89,
+      "bookmarks": 75,
+      "posted_at": "2026-10-27T01:23:41.000Z",
+      "original_en": "OpenAI asked three scientific communities how to release its discoveries and got three different answers:\n\nMathematicians: “Just post it. Who gives a shit anymore.”\n\nComputer scientists: “Open source it, but also pay for our conference.”\n\nPhysicists: “Leave it to us, nerds.” https://t.co/5cpEOIADpY",
+      "text": "OpenAI asked three scientific communities how to release its discoveries and got three different answers:\n\nMathematicians: “Just post it. Who gives a shit anymore.”\n\nComputer scientists: “Open source it, but also pay for our conference.”\n\nPhysicists: “Leave it to us, nerds.” https://t.co/5cpEOIADpY",
+      "followers": 501729,
+      "star": true,
+      "highlight": true,
+      "is_quote": false,
+      "media": "image",
+      "board_rank": 20,
+      "why_hit": {
+        "trend_match": 22,
+        "verdict": "visual",
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "media": "image",
+        "note": "followers: no data",
+        "topic": "Computer use"
+      }
+    },
+    {
+      "id": "2114744206875074693",
+      "handle": "@Marktechpost",
+      "name": "▲ Marktechpost AI",
+      "url": "https://x.com/Marktechpost/status/2114744206875074693",
+      "views": 31628,
+      "likes": 151,
+      "reposts": 11,
+      "replies": 43,
+      "bookmarks": 4,
+      "posted_at": "2026-10-26T15:41:23.000Z",
+      "original_en": "▲ Nace AI just released Drex for Search, which brings its Drex decision models to document search, so AI agents get cited pages instead of top-k chunks.\n\nThe key idea is that search is a series of decisions. Drex first classifies the question as a quick lookup or a deeper agent https://t.co/M1E1ahz31s",
+      "text": "▲ Nace AI just released Drex for Search, which brings its Drex decision models to document search, so AI agents get cited pages instead of top-k chunks.\n\nThe key idea is that search is a series of decisions. Drex first classifies the question as a quick lookup or a deeper agent https://t.co/M1E1ahz31s",
+      "followers": 11960,
+      "star": true,
+      "highlight": true,
+      "is_quote": false,
+      "media": "image",
+      "board_rank": 21,
+      "why_hit": {
+        "trend_match": 67,
+        "verdict": "trend",
+        "matched_keywords": [
+          "agents",
+          "model",
+          "AI agents"
+        ],
+        "media": "image",
+        "note": "followers: no data",
+        "topic": "Coding agents"
+      }
+    },
+    {
+      "id": "2114942007533515261",
+      "handle": "@emollick",
+      "name": "Ethan Mollick",
+      "url": "https://x.com/emollick/status/2114942007533515261",
+      "views": 31034,
+      "likes": 514,
+      "reposts": 35,
+      "replies": 254,
+      "bookmarks": 80,
+      "posted_at": "2026-10-27T04:47:22.000Z",
+      "original_en": "The end of detailed summarized thinking traces for Claude and ChatGPT (likely both anti-distillation & for UX) has made being a human in the loop challenging. It pushes us towards automation, rather than augmentation, as it has become much harder to weigh in on in-process AI work",
+      "text": "The end of detailed summarized thinking traces for Claude and ChatGPT (likely both anti-distillation & for UX) has made being a human in the loop challenging. It pushes us towards automation, rather than augmentation, as it has become much harder to weigh in on in-process AI work",
+      "followers": 409354,
+      "star": true,
+      "highlight": true,
+      "is_quote": false,
+      "board_rank": 22,
+      "why_hit": {
+        "trend_match": 49,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "Claude",
+          "ChatGPT"
+        ],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": "Computer use"
+      }
+    },
+    {
+      "id": "2114887892908883990",
+      "handle": "@bindureddy",
+      "name": "Bindu Reddy",
+      "url": "https://x.com/bindureddy/status/2114887892908883990",
+      "views": 19628,
+      "likes": 311,
+      "reposts": 19,
+      "replies": 63,
+      "bookmarks": 48,
+      "posted_at": "2026-10-27T01:12:21.000Z",
+      "original_en": "🚨 GPT 6.1 Terra Is The Cheapest Frontier Model Per Task\n\n-   cheaper than other frontier models\n-   comparable to Argon and Sonnet in total score\n-   very good at browser use\n\nA really good fit for personal agents and as a chatbot https://t.co/8e4ZHt1Csl",
+      "text": "🚨 GPT 6.1 Terra Is The Cheapest Frontier Model Per Task\n\n-   cheaper than other frontier models\n-   comparable to Argon and Sonnet in total score\n-   very good at browser use\n\nA really good fit for personal agents and as a chatbot https://t.co/8e4ZHt1Csl",
+      "followers": 395991,
+      "star": true,
+      "highlight": true,
+      "is_quote": false,
+      "media": "image",
+      "board_rank": 23,
+      "why_hit": {
+        "trend_match": 82,
+        "verdict": "trend",
+        "matched_keywords": [
+          "agents",
+          "Terra",
+          "model",
+          "6.1 Terra"
+        ],
+        "media": "image",
+        "note": "followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "2114906803452690453",
+      "handle": "@bindureddy",
+      "name": "Bindu Reddy",
+      "url": "https://x.com/bindureddy/status/2114906803452690453",
+      "views": 9022,
+      "likes": 156,
+      "reposts": 5,
+      "replies": 57,
+      "bookmarks": 8,
+      "posted_at": "2026-10-27T02:27:29.000Z",
+      "original_en": "LOL! GPUs are long lasting than models \n\nGPUs can last up to 6 years while model weights become legacy in 6 months \n\nToday, it’s Fable and Astra, tomorrow it will be Bel and Carbon at a fraction of the price",
+      "text": "LOL! GPUs are long lasting than models \n\nGPUs can last up to 6 years while model weights become legacy in 6 months \n\nToday, it’s Fable and Astra, tomorrow it will be Bel and Carbon at a fraction of the price",
+      "followers": 395991,
+      "star": false,
+      "highlight": false,
+      "is_quote": false,
+      "board_rank": 24,
       "why_hit": {
         "trend_match": 35,
         "verdict": "coincidence/other",
@@ -769,191 +833,71 @@
         ],
         "media": "no data",
         "note": "media: no data, followers: no data",
-        "topic": "model"
+        "topic": null
       }
     },
     {
-      "id": "2114377680715980950",
-      "handle": "@nvidia",
-      "name": "NVIDIA",
-      "url": "https://x.com/nvidia/status/2114377680715980950",
-      "views": 91051,
-      "likes": 812,
-      "reposts": 96,
-      "replies": 135,
-      "bookmarks": 70,
-      "posted_at": "2026-10-25T15:24:56.000Z",
-      "original_en": "Europe is building its AI future, and we’re all in. \n\nFrom AI factories and AI agents to robotics and healthcare, Jensen took the stage at #NVIDIAGTC Berlin to show how AI is taking shape across the continent.\n\nHere's a look back at the highlights: https://t.co/8nJReDvmH7",
-      "text": "Europe is building its AI future, and we’re all in. \n\nFrom AI factories and AI agents to robotics and healthcare, Jensen took the stage at #NVIDIAGTC Berlin to show how AI is taking shape across the continent.\n\nHere's a look back at the highlights: https://t.co/8nJReDvmH7",
-      "followers": 2693806,
-      "star": true,
-      "is_quote": false,
-      "visual_type": "video",
+      "id": "2114945098052165906",
+      "handle": "@kevinweil",
+      "name": "Kevin Weil 🇺🇸",
+      "url": "https://x.com/kevinweil/status/2114945098052165906",
+      "views": 8562,
+      "likes": 52,
+      "reposts": 0,
+      "replies": 10,
+      "bookmarks": 7,
+      "posted_at": "2026-10-27T04:59:39.000Z",
+      "original_en": "\"Primarily for email\" is funny and somewhat true, but it won't be true for much longer https://t.co/ZMcKjYsDb1",
+      "text": "\"Primarily for email\" is funny and somewhat true, but it won't be true for much longer https://t.co/ZMcKjYsDb1",
+      "followers": 123833,
+      "star": false,
+      "highlight": false,
+      "is_quote": true,
+      "board_rank": 25,
       "why_hit": {
-        "trend_match": 58,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "2114828017155600433",
+      "handle": "@MasterDotDev",
+      "name": "Master.dev (Formerly Frontend Masters)",
+      "url": "https://x.com/MasterDotDev/status/2114828017155600433",
+      "views": 5958,
+      "likes": 59,
+      "reposts": 3,
+      "replies": 8,
+      "bookmarks": 22,
+      "posted_at": "2026-10-26T21:14:25.000Z",
+      "original_en": "We have a ton of awesome AI courses now!\n\n- Codex with the OpenAI team\n- Claude Code with the Anthropic team\n- AI Agents, Applied AI Engineering, & Harness Engineering by Scott Moss\n- Local AI\n- Playwright / Testing\n- Build a fullstack app\n- MCP https://t.co/I2ExLYoSCJ",
+      "text": "We have a ton of awesome AI courses now!\n\n- Codex with the OpenAI team\n- Claude Code with the Anthropic team\n- AI Agents, Applied AI Engineering, & Harness Engineering by Scott Moss\n- Local AI\n- Playwright / Testing\n- Build a fullstack app\n- MCP https://t.co/I2ExLYoSCJ",
+      "followers": 133128,
+      "star": false,
+      "highlight": false,
+      "is_quote": false,
+      "media": "image",
+      "board_rank": 26,
+      "why_hit": {
+        "trend_match": 93,
         "verdict": "trend",
         "matched_keywords": [
           "agents",
-          "AI agents"
+          "Claude",
+          "Anthropic",
+          "Code",
+          "AI agents",
+          "Codex",
+          "OpenAI",
+          "local"
         ],
-        "media": "no data",
-        "note": "media: no data, followers: no data",
-        "topic": "agents / GPT-6.1 Terra"
-      }
-    },
-    {
-      "id": "2114795869081939998",
-      "handle": "@paulg",
-      "name": "Paul Graham",
-      "url": "https://x.com/paulg/status/2114795869081939998",
-      "views": 78727,
-      "likes": 597,
-      "reposts": 10,
-      "replies": 31,
-      "bookmarks": 55,
-      "posted_at": "2026-10-26T19:06:40.000Z",
-      "original_en": "Thanks to Sandy Riddick and his friends for inviting Jessica and me to visit Columbia. It was interesting to talk to a small group of students around a table instead of a large group in a lecture hall. https://t.co/s7Voo8a3eB",
-      "text": "Thanks to Sandy Riddick and his friends for inviting Jessica and me to visit Columbia. It was interesting to talk to a small group of students around a table instead of a large group in a lecture hall. https://t.co/s7Voo8a3eB",
-      "followers": 5441499,
-      "star": true,
-      "is_quote": false,
-      "visual_type": "photo",
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "coincidence/other",
-        "matched_keywords": [],
-        "media": "no data",
-        "note": "media: no data, followers: no data",
-        "topic": null
-      }
-    },
-    {
-      "id": "2114760898225299721",
-      "handle": "@amasad",
-      "name": "Amjad Masad",
-      "url": "https://x.com/amasad/status/2114760898225299721",
-      "views": 78607,
-      "likes": 623,
-      "reposts": 63,
-      "replies": 143,
-      "bookmarks": 618,
-      "posted_at": "2026-10-26T16:47:43.000Z",
-      "original_en": "For centuries, the architecture of the firm has barely changed: hierarchies of people organized into departments and coordinated through bureaucracy.\n\nAI agents are about to upend that.\n\nWe’re moving toward the self-driving company where humans exercise judgment and agents https://t.co/Ty6FyvydwW",
-      "text": "For centuries, the architecture of the firm has barely changed: hierarchies of people organized into departments and coordinated through bureaucracy.\n\nAI agents are about to upend that.\n\nWe’re moving toward the self-driving company where humans exercise judgment and agents https://t.co/Ty6FyvydwW",
-      "followers": 501530,
-      "star": true,
-      "is_quote": true,
-      "why_hit": {
-        "trend_match": 58,
-        "verdict": "trend",
-        "matched_keywords": [
-          "agents",
-          "AI agents"
-        ],
-        "media": "no data",
-        "note": "media: no data, followers: no data",
-        "topic": "agents / GPT-6.1 Terra"
-      }
-    },
-    {
-      "id": "2114814747254432243",
-      "handle": "@gdb",
-      "name": "Greg Brockman",
-      "url": "https://x.com/gdb/status/2114814747254432243",
-      "views": 76729,
-      "likes": 1140,
-      "reposts": 55,
-      "replies": 114,
-      "bookmarks": 209,
-      "posted_at": "2026-10-26T20:21:41.000Z",
-      "original_en": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted https://t.co/3lZI9cX65p https://t.co/JwDlhdqo9K",
-      "text": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted https://t.co/3lZI9cX65p https://t.co/JwDlhdqo9K",
-      "followers": 1078367,
-      "star": true,
-      "is_quote": true,
-      "visual_type": "photo",
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "coincidence/other",
-        "matched_keywords": [],
-        "media": "no data",
-        "note": "media: no data, followers: no data",
-        "topic": null
-      }
-    },
-    {
-      "id": "2114705745816006795",
-      "handle": "@levelsio",
-      "name": "@levelsio",
-      "url": "https://x.com/levelsio/status/2114705745816006795",
-      "views": 76215,
-      "likes": 1353,
-      "reposts": 14,
-      "replies": 127,
-      "bookmarks": 89,
-      "posted_at": "2026-10-26T13:08:33.000Z",
-      "original_en": "Guys literally only want one thing and it's ground beef and rice https://t.co/aiZSZjNqEg",
-      "text": "Guys literally only want one thing and it's ground beef and rice https://t.co/aiZSZjNqEg",
-      "followers": 982665,
-      "star": true,
-      "is_quote": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "coincidence/other",
-        "matched_keywords": [],
-        "media": "no data",
-        "note": "media: no data, followers: no data",
-        "topic": null
-      }
-    },
-    {
-      "id": "2114769129282601053",
-      "handle": "@amasad",
-      "name": "Amjad Masad",
-      "url": "https://x.com/amasad/status/2114769129282601053",
-      "views": 71897,
-      "likes": 970,
-      "reposts": 97,
-      "replies": 83,
-      "bookmarks": 1118,
-      "posted_at": "2026-10-26T17:20:25.000Z",
-      "original_en": "Software ate the world, now it's learning to run it. https://t.co/e0XiyjLgv8",
-      "text": "Software ate the world, now it's learning to run it. https://t.co/e0XiyjLgv8",
-      "followers": 501530,
-      "star": true,
-      "is_quote": false,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "coincidence/other",
-        "matched_keywords": [],
-        "media": "no data",
-        "note": "media: no data, followers: no data",
-        "topic": null
-      }
-    },
-    {
-      "id": "2114814292096700906",
-      "handle": "@paulg",
-      "name": "Paul Graham",
-      "url": "https://x.com/paulg/status/2114814292096700906",
-      "views": 51315,
-      "likes": 400,
-      "reposts": 12,
-      "replies": 69,
-      "bookmarks": 67,
-      "posted_at": "2026-10-26T20:19:53.000Z",
-      "original_en": "One of the most unexpected things about YC is how long we continue helping the founders. Even though we're generally the first investors, we're the ones still advising them 10 years later. I think it's because we're the investing analogue of old friends. https://t.co/Txn8silBrA",
-      "text": "One of the most unexpected things about YC is how long we continue helping the founders. Even though we're generally the first investors, we're the ones still advising them 10 years later. I think it's because we're the investing analogue of old friends. https://t.co/Txn8silBrA",
-      "followers": 5441499,
-      "star": true,
-      "is_quote": true,
-      "why_hit": {
-        "trend_match": 0,
-        "verdict": "coincidence/other",
-        "matched_keywords": [],
-        "media": "no data",
-        "note": "media: no data, followers: no data",
-        "topic": null
+        "media": "image",
+        "note": "followers: no data",
+        "topic": "Computer use"
       }
     }
   ],
@@ -963,421 +907,547 @@
       "handle": "@AnthropicAI",
       "name": "Anthropic",
       "url": "https://x.com/AnthropicAI/status/2114705042817110293",
-      "views": 5690874,
-      "likes": 15735,
-      "reposts": 1982,
-      "replies": 1093,
-      "bookmarks": 2628,
+      "views": 7596883,
+      "likes": 17429,
+      "reposts": 2272,
+      "replies": 1232,
+      "bookmarks": 3075,
       "posted_at": "2026-10-26T13:05:46.000Z",
       "original_en": "Anthropic has filed an S-1 registration statement with the SEC related to its proposed IPO.\n\nRead more: https://t.co/zuRMrxXzNx\n\nLegal disclaimer: A registration statement relating to these securities has been filed with the SEC but has not yet become effective. These securities",
       "text": "Anthropic has filed an S-1 registration statement with the SEC related to its proposed IPO.\n\nRead more: https://t.co/zuRMrxXzNx\n\nLegal disclaimer: A registration statement relating to these securities has been filed with the SEC but has not yet become effective. These securities",
-      "followers": 1844078,
+      "followers": 1846286,
       "star": true,
-      "is_quote": false
+      "highlight": true,
+      "is_quote": false,
+      "board_rank": 1,
+      "draft_en": "Big moment for the AI market: Anthropic just put its S-1 on file with the SEC, the formal first step toward going public. The company behind Claude is heading for an IPO. Mind the fine print though - the registration is filed but not effective yet, so nothing is on sale today.",
+      "draft_keywords": [
+        "Anthropic",
+        "Claude"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.32,
+        "max_copied_run": 3
+      },
+      "top10_rank": 1,
+      "hook": "Anthropic entrou com o S-1 na SEC: o IPO da dona do Claude começou oficialmente.",
+      "video_tip": "Vídeo vertical 30-45s: print do tweet + tela do S-1 na SEC, você explicando em 3 bullets o que é um S-1 e o que 'ainda não efetivo' significa. Legenda grande."
     },
     {
       "id": "2114780711664398349",
       "handle": "@OpenAI",
       "name": "OpenAI",
       "url": "https://x.com/OpenAI/status/2114780711664398349",
-      "views": 2802128,
-      "likes": 21533,
-      "reposts": 1863,
-      "replies": 1120,
-      "bookmarks": 3365,
+      "views": 4476435,
+      "likes": 25704,
+      "reposts": 2262,
+      "replies": 1406,
+      "bookmarks": 3943,
       "posted_at": "2026-10-26T18:06:27.000Z",
       "original_en": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price.\n\nGPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it. https://t.co/8JTN1yonmV",
       "text": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price.\n\nGPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it. https://t.co/8JTN1yonmV",
-      "followers": 5478901,
+      "followers": 5482078,
       "star": true,
+      "highlight": true,
       "is_quote": false,
-      "visual_type": "video"
+      "media": "video",
+      "board_rank": 2,
+      "draft_en": "OpenAI's pitch for GPT-6.1 Terra is simple: computer use that is quicker, sharper and cheaper. The model reads what is on your screen, acts across apps, writes like a person - and is built to carry more of the workday without burning more budget.",
+      "draft_keywords": [
+        "OpenAI",
+        "GPT-6.1 Terra",
+        "model"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.391,
+        "max_copied_run": 3
+      },
+      "top10_rank": 2,
+      "hook": "GPT-6.1 Terra: computer use mais rápido e mais barato, agora no ChatGPT, Codex e API.",
+      "video_tip": "Screencast 45-60s: o Terra executando uma tarefa real no seu desktop (ex.: preencher planilha a partir de PDF), cronômetro no canto, corte seco no resultado."
     },
     {
-      "id": "2114837059462627533",
-      "handle": "@gdb",
-      "name": "Greg Brockman",
-      "url": "https://x.com/gdb/status/2114837059462627533",
-      "views": 618381,
-      "likes": 6717,
-      "reposts": 753,
-      "replies": 313,
-      "bookmarks": 1725,
-      "posted_at": "2026-10-26T21:50:21.000Z",
-      "original_en": "Announcing three major scientific discoveries, one each in mathematics (harmonic analysis), computer science (complexity theory), and physics (quantum field theory).\n\nAI starting to help us improve our understanding of the universe! https://t.co/VkfacopR2R",
-      "text": "Announcing three major scientific discoveries, one each in mathematics (harmonic analysis), computer science (complexity theory), and physics (quantum field theory).\n\nAI starting to help us improve our understanding of the universe! https://t.co/VkfacopR2R",
-      "followers": 1078367,
+      "id": "2114938847704571975",
+      "handle": "@bindureddy",
+      "name": "Bindu Reddy",
+      "url": "https://x.com/bindureddy/status/2114938847704571975",
+      "views": 1053743,
+      "likes": 269,
+      "reposts": 15,
+      "replies": 57,
+      "bookmarks": 190,
+      "posted_at": "2026-10-27T04:34:49.000Z",
+      "original_en": "🚨 Announcing Smaug Humanizer - Humanize your AI-generated text in your tone\n\n- open-weights dropped on HF\n- plug-and-play to humanize your text\n- sound more human and less robotic\n- built on Gemma\n\nDestroy AI-slop and bring creativity back to the internet https://t.co/iA9VXboLBI",
+      "text": "🚨 Announcing Smaug Humanizer - Humanize your AI-generated text in your tone\n\n- open-weights dropped on HF\n- plug-and-play to humanize your text\n- sound more human and less robotic\n- built on Gemma\n\nDestroy AI-slop and bring creativity back to the internet https://t.co/iA9VXboLBI",
+      "followers": 395991,
       "star": true,
-      "is_quote": false
+      "highlight": true,
+      "is_quote": false,
+      "media": "image",
+      "board_rank": 9,
+      "draft_en": "Tired of copy that reads like a robot wrote it? Smaug Humanizer just shipped with open weights on HF. It sits on top of Gemma, plugs straight into your stack and rewrites AI-generated drafts in your own voice so they sound human again. The goal: kill the AI slop and put creativity back online.",
+      "draft_keywords": [
+        "Smaug Humanizer"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.25,
+        "max_copied_run": 2
+      },
+      "top10_rank": 9,
+      "hook": "Smaug Humanizer: modelo open-weights (base Gemma) que 'humaniza' texto gerado por IA no seu tom.",
+      "video_tip": "Antes/depois em vídeo 30s: mesmo parágrafo de LLM cru vs humanizado, destaque das diferenças em amarelo, pergunta final 'qual soa humano?'."
     },
     {
       "id": "2114780227465338985",
       "handle": "@claudeai",
       "name": "Claude",
       "url": "https://x.com/claudeai/status/2114780227465338985",
-      "views": 404509,
-      "likes": 4669,
-      "reposts": 207,
-      "replies": 244,
-      "bookmarks": 857,
+      "views": 601466,
+      "likes": 6073,
+      "reposts": 282,
+      "replies": 313,
+      "bookmarks": 1137,
       "posted_at": "2026-10-26T18:04:31.000Z",
       "original_en": "More than 25,000 nonprofits now use Claude. Most are small, local teams.\n\nWe’re expanding Claude for Nonprofits with a plugin built with around 30 of them, adding skills for fundraising, marketing, and hiring grounded in each team’s context and AI policy: https://t.co/LWHcr1CT20 https://t.co/WHG2zRDyxO",
       "text": "More than 25,000 nonprofits now use Claude. Most are small, local teams.\n\nWe’re expanding Claude for Nonprofits with a plugin built with around 30 of them, adding skills for fundraising, marketing, and hiring grounded in each team’s context and AI policy: https://t.co/LWHcr1CT20 https://t.co/WHG2zRDyxO",
-      "followers": 1957118,
+      "followers": 1959007,
       "star": true,
-      "is_quote": true
-    },
-    {
-      "id": "2114787151619485852",
-      "handle": "@paulg",
-      "name": "Paul Graham",
-      "url": "https://x.com/paulg/status/2114787151619485852",
-      "views": 390157,
-      "likes": 7033,
-      "reposts": 624,
-      "replies": 390,
-      "bookmarks": 1450,
-      "posted_at": "2026-10-26T18:32:02.000Z",
-      "original_en": "We're about to enter a period where not reading or writing becomes as ubiquitous as smoking once was. We can hope people will eventually realize this is bad for them, as they did with smoking. But this is far from certain; the cost may not be as obvious.",
-      "text": "We're about to enter a period where not reading or writing becomes as ubiquitous as smoking once was. We can hope people will eventually realize this is bad for them, as they did with smoking. But this is far from certain; the cost may not be as obvious.",
-      "followers": 5441499,
-      "star": true,
-      "is_quote": false
-    },
-    {
-      "id": "2114751107293749731",
-      "handle": "@pmarca",
-      "name": "Marc Andreessen 🇺🇸",
-      "url": "https://x.com/pmarca/status/2114751107293749731",
-      "views": 223289,
-      "likes": 1309,
-      "reposts": 169,
-      "replies": 87,
-      "bookmarks": 1769,
-      "posted_at": "2026-10-26T16:08:48.000Z",
-      "original_en": "https://t.co/rv1SShz6q8",
-      "text": "https://t.co/rv1SShz6q8",
-      "followers": 6665982,
-      "star": true,
-      "is_quote": false
+      "highlight": true,
+      "is_quote": true,
+      "board_rank": 10,
+      "draft_en": "Over 25,000 nonprofits run on Claude today, and most of them are small local crews. Anthropic is widening Claude for Nonprofits with a plugin co-designed with around 30 of those orgs - new skills for hiring, marketing and fundraising that respect each team's own context and AI policy.",
+      "draft_keywords": [
+        "Claude",
+        "Anthropic",
+        "local"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.111,
+        "word_overlap": 0.667,
+        "max_copied_run": 6
+      },
+      "top10_rank": 10,
+      "hook": "Mais de 25 mil ONGs já usam o Claude; Anthropic lança plugin com skills de captação, marketing e contratação.",
+      "video_tip": "Carrossel ou vídeo 30s: 3 skills (captação, marketing, contratação) em 3 cards, com exemplo de uso numa ONG local brasileira."
     },
     {
       "id": "2114793714531102901",
       "handle": "@cursor_ai",
       "name": "Cursor",
       "url": "https://x.com/cursor_ai/status/2114793714531102901",
-      "views": 214797,
-      "likes": 2744,
-      "reposts": 168,
-      "replies": 257,
-      "bookmarks": 1428,
+      "views": 324688,
+      "likes": 3503,
+      "reposts": 247,
+      "replies": 363,
+      "bookmarks": 1887,
       "posted_at": "2026-10-26T18:58:07.000Z",
       "original_en": "The Agent SDK is now available.\n\nDefine agents as code, with prompts in Markdown and tools in TypeScript. Deploy them on our hosted infrastructure, or run them on your own.\n\nBuilt-in evals let you measure every change and make your agents better over time. https://t.co/sww7EXYBFI",
       "text": "The Agent SDK is now available.\n\nDefine agents as code, with prompts in Markdown and tools in TypeScript. Deploy them on our hosted infrastructure, or run them on your own.\n\nBuilt-in evals let you measure every change and make your agents better over time. https://t.co/sww7EXYBFI",
-      "followers": 493579,
+      "followers": 494034,
       "star": true,
+      "highlight": true,
       "is_quote": false,
-      "visual_type": "video"
-    },
-    {
-      "id": "2114792905973838057",
-      "handle": "@levelsio",
-      "name": "@levelsio",
-      "url": "https://x.com/levelsio/status/2114792905973838057",
-      "views": 209039,
-      "likes": 1442,
-      "reposts": 26,
-      "replies": 92,
-      "bookmarks": 513,
-      "posted_at": "2026-10-26T18:54:54.000Z",
-      "original_en": "Google is down bad for no apparent reason \n\nSo today I have been loading up on $GOOG stock (well $GOOGL but they're mostly the same) for in my eyes very cheap\n\nI just Facetime'd with my dad and we talked about ChatGPT and he answered \"yes I cancelled my ChatGPT because it's on https://t.co/RE788ZYvht https://t.co/HdFNoCgQct",
-      "text": "Google is down bad for no apparent reason \n\nSo today I have been loading up on $GOOG stock (well $GOOGL but they're mostly the same) for in my eyes very cheap\n\nI just Facetime'd with my dad and we talked about ChatGPT and he answered \"yes I cancelled my ChatGPT because it's on https://t.co/RE788ZYvht https://t.co/HdFNoCgQct",
-      "followers": 982665,
-      "star": true,
-      "is_quote": true,
-      "visual_type": "photo"
-    },
-    {
-      "id": "2114700426528575817",
-      "handle": "@levelsio",
-      "name": "@levelsio",
-      "url": "https://x.com/levelsio/status/2114700426528575817",
-      "views": 156368,
-      "likes": 1910,
-      "reposts": 48,
-      "replies": 116,
-      "bookmarks": 857,
-      "posted_at": "2026-10-26T12:47:25.000Z",
-      "original_en": "I keep saying this but if you understand basic economics the only one winning here is Big AI and Big Tech\n\nIt's a race to the bottom for anyone else in software\n\nSo try become a co-owner of big AI and Big Tech stock and survive off their dividends and/or stock appreciation https://t.co/KjqtWa2eA0",
-      "text": "I keep saying this but if you understand basic economics the only one winning here is Big AI and Big Tech\n\nIt's a race to the bottom for anyone else in software\n\nSo try become a co-owner of big AI and Big Tech stock and survive off their dividends and/or stock appreciation https://t.co/KjqtWa2eA0",
-      "followers": 982665,
-      "star": true,
-      "is_quote": true
-    },
-    {
-      "id": "2114860693585563907",
-      "handle": "@gdb",
-      "name": "Greg Brockman",
-      "url": "https://x.com/gdb/status/2114860693585563907",
-      "views": 124726,
-      "likes": 2613,
-      "reposts": 118,
-      "replies": 168,
-      "bookmarks": 176,
-      "posted_at": "2026-10-26T23:24:16.000Z",
-      "original_en": "p still probably doesn't equal np",
-      "text": "p still probably doesn't equal np",
-      "followers": 1078367,
-      "star": true,
-      "is_quote": false
-    },
-    {
-      "id": "2114780986613682473",
-      "handle": "@OpenAIDevs",
-      "name": "OpenAI Developers",
-      "url": "https://x.com/OpenAIDevs/status/2114780986613682473",
-      "views": 104077,
-      "likes": 1704,
-      "reposts": 87,
-      "replies": 128,
-      "bookmarks": 184,
-      "posted_at": "2026-10-26T18:07:32.000Z",
-      "original_en": "GPT-6.1 Terra is also coming to the API and Codex.\n\nUse Terra to build apps and agents that interpret images, navigate software, and take action. You get fast computer use at a lower cost, ideal for high-volume workflows. https://t.co/kYjK7mn4Bq",
-      "text": "GPT-6.1 Terra is also coming to the API and Codex.\n\nUse Terra to build apps and agents that interpret images, navigate software, and take action. You get fast computer use at a lower cost, ideal for high-volume workflows. https://t.co/kYjK7mn4Bq",
-      "followers": 466070,
-      "star": true,
-      "is_quote": true
-    },
-    {
-      "id": "2114791686761247162",
-      "handle": "@paulg",
-      "name": "Paul Graham",
-      "url": "https://x.com/paulg/status/2114791686761247162",
-      "views": 101358,
-      "likes": 984,
-      "reposts": 29,
-      "replies": 81,
-      "bookmarks": 137,
-      "posted_at": "2026-10-26T18:50:03.000Z",
-      "original_en": "The reason UK universities demand more equity than US universities in \"spin outs\" is not that they're tougher negotiators. It's that they're too inexperienced to realize they're charging over market rate.",
-      "text": "The reason UK universities demand more equity than US universities in \"spin outs\" is not that they're tougher negotiators. It's that they're too inexperienced to realize they're charging over market rate.",
-      "followers": 5441499,
-      "star": true,
-      "is_quote": false
+      "media": "video",
+      "board_rank": 11
     },
     {
       "id": "2114839997568405608",
       "handle": "@cursor_ai",
       "name": "Cursor",
       "url": "https://x.com/cursor_ai/status/2114839997568405608",
-      "views": 100917,
-      "likes": 1843,
-      "reposts": 102,
-      "replies": 163,
-      "bookmarks": 200,
+      "views": 258832,
+      "likes": 3374,
+      "reposts": 173,
+      "replies": 290,
+      "bookmarks": 356,
       "posted_at": "2026-10-26T22:02:01.000Z",
       "original_en": "DeepSeek V4.1 Flash is now available in Cursor!\n\nEvery effort level sits on the CursorBench cost frontier: from $0.60 to $0.98 per task, no model scores higher.\n\nTurn it on in Cursor Settings &gt; Models. https://t.co/QNQmJpaOa0",
       "text": "DeepSeek V4.1 Flash is now available in Cursor!\n\nEvery effort level sits on the CursorBench cost frontier: from $0.60 to $0.98 per task, no model scores higher.\n\nTurn it on in Cursor Settings &gt; Models. https://t.co/QNQmJpaOa0",
-      "followers": 493579,
+      "followers": 494034,
       "star": true,
+      "highlight": true,
       "is_quote": false,
-      "visual_type": "photo"
+      "media": "image",
+      "board_rank": 12
     },
     {
-      "id": "2114377680715980950",
+      "id": "2114780986613682473",
+      "handle": "@OpenAIDevs",
+      "name": "OpenAI Developers",
+      "url": "https://x.com/OpenAIDevs/status/2114780986613682473",
+      "views": 127222,
+      "likes": 2030,
+      "reposts": 122,
+      "replies": 149,
+      "bookmarks": 199,
+      "posted_at": "2026-10-26T18:07:32.000Z",
+      "original_en": "GPT-6.1 Terra is also coming to the API and Codex.\n\nUse Terra to build apps and agents that interpret images, navigate software, and take action. You get fast computer use at a lower cost, ideal for high-volume workflows. https://t.co/kYjK7mn4Bq",
+      "text": "GPT-6.1 Terra is also coming to the API and Codex.\n\nUse Terra to build apps and agents that interpret images, navigate software, and take action. You get fast computer use at a lower cost, ideal for high-volume workflows. https://t.co/kYjK7mn4Bq",
+      "followers": 466356,
+      "star": true,
+      "highlight": true,
+      "is_quote": true,
+      "board_rank": 13
+    },
+    {
+      "id": "2114912639298191807",
+      "handle": "@theo",
+      "name": "Theo - t3.gg",
+      "url": "https://x.com/theo/status/2114912639298191807",
+      "views": 123250,
+      "likes": 1847,
+      "reposts": 20,
+      "replies": 68,
+      "bookmarks": 290,
+      "posted_at": "2026-10-27T02:50:41.000Z",
+      "original_en": "Never seen ChatGPT get so serious so fast before https://t.co/IHMdpReRFP https://t.co/lgDS7m8opv",
+      "text": "Never seen ChatGPT get so serious so fast before https://t.co/IHMdpReRFP https://t.co/lgDS7m8opv",
+      "followers": 415117,
+      "star": true,
+      "highlight": true,
+      "is_quote": true,
+      "media": "image",
+      "board_rank": 14
+    },
+    {
+      "id": "2114963025409257706",
+      "handle": "@theo",
+      "name": "Theo - t3.gg",
+      "url": "https://x.com/theo/status/2114963025409257706",
+      "views": 86653,
+      "likes": 3027,
+      "reposts": 113,
+      "replies": 273,
+      "bookmarks": 231,
+      "posted_at": "2026-10-27T06:10:54.000Z",
+      "original_en": "The ability to build anything has come with a critical lesson:\n\nEngineers have really, really bad ideas.",
+      "text": "The ability to build anything has come with a critical lesson:\n\nEngineers have really, really bad ideas.",
+      "followers": 415117,
+      "star": true,
+      "highlight": true,
+      "is_quote": false,
+      "board_rank": 15
+    },
+    {
+      "id": "2114955692193054930",
+      "handle": "@theo",
+      "name": "Theo - t3.gg",
+      "url": "https://x.com/theo/status/2114955692193054930",
+      "views": 80959,
+      "likes": 1768,
+      "reposts": 30,
+      "replies": 127,
+      "bookmarks": 469,
+      "posted_at": "2026-10-27T05:41:45.000Z",
+      "original_en": "Day 23/\n\nYour agents will now use the tools in T3 Code 4x better while using 79% less context.\n\nThis one deserves more info, let me explain: https://t.co/R1drjC9xVa https://t.co/nFDy2KxY0w",
+      "text": "Day 23/\n\nYour agents will now use the tools in T3 Code 4x better while using 79% less context.\n\nThis one deserves more info, let me explain: https://t.co/R1drjC9xVa https://t.co/nFDy2KxY0w",
+      "followers": 415117,
+      "star": true,
+      "highlight": true,
+      "is_quote": true,
+      "media": "image",
+      "board_rank": 16
+    },
+    {
+      "id": "2114978312426791384",
+      "handle": "@theo",
+      "name": "Theo - t3.gg",
+      "url": "https://x.com/theo/status/2114978312426791384",
+      "views": 72825,
+      "likes": 761,
+      "reposts": 10,
+      "replies": 35,
+      "bookmarks": 151,
+      "posted_at": "2026-10-27T07:11:38.000Z",
+      "original_en": "Best thing anyone shipped this week https://t.co/68K2NJ79D0",
+      "text": "Best thing anyone shipped this week https://t.co/68K2NJ79D0",
+      "followers": 415117,
+      "star": true,
+      "highlight": true,
+      "is_quote": true,
+      "board_rank": 17
+    },
+    {
+      "id": "2114827978748383342",
       "handle": "@nvidia",
       "name": "NVIDIA",
-      "url": "https://x.com/nvidia/status/2114377680715980950",
-      "views": 91051,
-      "likes": 812,
-      "reposts": 96,
-      "replies": 135,
-      "bookmarks": 70,
-      "posted_at": "2026-10-25T15:24:56.000Z",
-      "original_en": "Europe is building its AI future, and we’re all in. \n\nFrom AI factories and AI agents to robotics and healthcare, Jensen took the stage at #NVIDIAGTC Berlin to show how AI is taking shape across the continent.\n\nHere's a look back at the highlights: https://t.co/8nJReDvmH7",
-      "text": "Europe is building its AI future, and we’re all in. \n\nFrom AI factories and AI agents to robotics and healthcare, Jensen took the stage at #NVIDIAGTC Berlin to show how AI is taking shape across the continent.\n\nHere's a look back at the highlights: https://t.co/8nJReDvmH7",
-      "followers": 2693806,
+      "url": "https://x.com/nvidia/status/2114827978748383342",
+      "views": 47462,
+      "likes": 385,
+      "reposts": 52,
+      "replies": 61,
+      "bookmarks": 35,
+      "posted_at": "2026-10-26T21:14:16.000Z",
+      "original_en": "After a breast cancer diagnosis, one of the hardest questions is whether it will come back.\n\n@SimBioSys is helping doctors and patients better understand that risk. Powered by NVIDIA technology, its FDA-cleared TumorSight Risk analyzes an existing breast MRI alongside pathology https://t.co/mbzSeRnE8l",
+      "text": "After a breast cancer diagnosis, one of the hardest questions is whether it will come back.\n\n@SimBioSys is helping doctors and patients better understand that risk. Powered by NVIDIA technology, its FDA-cleared TumorSight Risk analyzes an existing breast MRI alongside pathology https://t.co/mbzSeRnE8l",
+      "followers": 2694041,
       "star": true,
+      "highlight": true,
       "is_quote": false,
-      "visual_type": "video"
+      "media": "video",
+      "board_rank": 18
     },
     {
-      "id": "2114795869081939998",
-      "handle": "@paulg",
-      "name": "Paul Graham",
-      "url": "https://x.com/paulg/status/2114795869081939998",
-      "views": 78727,
-      "likes": 597,
-      "reposts": 10,
-      "replies": 31,
-      "bookmarks": 55,
-      "posted_at": "2026-10-26T19:06:40.000Z",
-      "original_en": "Thanks to Sandy Riddick and his friends for inviting Jessica and me to visit Columbia. It was interesting to talk to a small group of students around a table instead of a large group in a lecture hall. https://t.co/s7Voo8a3eB",
-      "text": "Thanks to Sandy Riddick and his friends for inviting Jessica and me to visit Columbia. It was interesting to talk to a small group of students around a table instead of a large group in a lecture hall. https://t.co/s7Voo8a3eB",
-      "followers": 5441499,
+      "id": "2114837274550747603",
+      "handle": "@OpenAIDevs",
+      "name": "OpenAI Developers",
+      "url": "https://x.com/OpenAIDevs/status/2114837274550747603",
+      "views": 42422,
+      "likes": 481,
+      "reposts": 40,
+      "replies": 57,
+      "bookmarks": 43,
+      "posted_at": "2026-10-26T21:51:12.000Z",
+      "original_en": "GPT-6.1 Sol is being used by @coderabbitai to help developers find security risks across complex codebases.\n\nhttps://t.co/CshBD68xD7",
+      "text": "GPT-6.1 Sol is being used by @coderabbitai to help developers find security risks across complex codebases.\n\nhttps://t.co/CshBD68xD7",
+      "followers": 466356,
       "star": true,
+      "highlight": true,
       "is_quote": false,
-      "visual_type": "photo"
+      "board_rank": 19
     },
     {
-      "id": "2114760898225299721",
+      "id": "2114890745471545419",
       "handle": "@amasad",
       "name": "Amjad Masad",
-      "url": "https://x.com/amasad/status/2114760898225299721",
-      "views": 78607,
-      "likes": 623,
-      "reposts": 63,
-      "replies": 143,
-      "bookmarks": 618,
-      "posted_at": "2026-10-26T16:47:43.000Z",
-      "original_en": "For centuries, the architecture of the firm has barely changed: hierarchies of people organized into departments and coordinated through bureaucracy.\n\nAI agents are about to upend that.\n\nWe’re moving toward the self-driving company where humans exercise judgment and agents https://t.co/Ty6FyvydwW",
-      "text": "For centuries, the architecture of the firm has barely changed: hierarchies of people organized into departments and coordinated through bureaucracy.\n\nAI agents are about to upend that.\n\nWe’re moving toward the self-driving company where humans exercise judgment and agents https://t.co/Ty6FyvydwW",
-      "followers": 501530,
+      "url": "https://x.com/amasad/status/2114890745471545419",
+      "views": 37493,
+      "likes": 557,
+      "reposts": 30,
+      "replies": 89,
+      "bookmarks": 75,
+      "posted_at": "2026-10-27T01:23:41.000Z",
+      "original_en": "OpenAI asked three scientific communities how to release its discoveries and got three different answers:\n\nMathematicians: “Just post it. Who gives a shit anymore.”\n\nComputer scientists: “Open source it, but also pay for our conference.”\n\nPhysicists: “Leave it to us, nerds.” https://t.co/5cpEOIADpY",
+      "text": "OpenAI asked three scientific communities how to release its discoveries and got three different answers:\n\nMathematicians: “Just post it. Who gives a shit anymore.”\n\nComputer scientists: “Open source it, but also pay for our conference.”\n\nPhysicists: “Leave it to us, nerds.” https://t.co/5cpEOIADpY",
+      "followers": 501729,
       "star": true,
-      "is_quote": true
+      "highlight": true,
+      "is_quote": false,
+      "media": "image",
+      "board_rank": 20
     },
     {
-      "id": "2114814747254432243",
-      "handle": "@gdb",
-      "name": "Greg Brockman",
-      "url": "https://x.com/gdb/status/2114814747254432243",
-      "views": 76729,
-      "likes": 1140,
-      "reposts": 55,
-      "replies": 114,
-      "bookmarks": 209,
-      "posted_at": "2026-10-26T20:21:41.000Z",
-      "original_en": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted https://t.co/3lZI9cX65p https://t.co/JwDlhdqo9K",
-      "text": "computer use with terra has crossed a qualitative threshold where it feels faster at using a computer than what i can do unassisted https://t.co/3lZI9cX65p https://t.co/JwDlhdqo9K",
-      "followers": 1078367,
+      "id": "2114744206875074693",
+      "handle": "@Marktechpost",
+      "name": "▲ Marktechpost AI",
+      "url": "https://x.com/Marktechpost/status/2114744206875074693",
+      "views": 31628,
+      "likes": 151,
+      "reposts": 11,
+      "replies": 43,
+      "bookmarks": 4,
+      "posted_at": "2026-10-26T15:41:23.000Z",
+      "original_en": "▲ Nace AI just released Drex for Search, which brings its Drex decision models to document search, so AI agents get cited pages instead of top-k chunks.\n\nThe key idea is that search is a series of decisions. Drex first classifies the question as a quick lookup or a deeper agent https://t.co/M1E1ahz31s",
+      "text": "▲ Nace AI just released Drex for Search, which brings its Drex decision models to document search, so AI agents get cited pages instead of top-k chunks.\n\nThe key idea is that search is a series of decisions. Drex first classifies the question as a quick lookup or a deeper agent https://t.co/M1E1ahz31s",
+      "followers": 11960,
       "star": true,
+      "highlight": true,
+      "is_quote": false,
+      "media": "image",
+      "board_rank": 21
+    },
+    {
+      "id": "2114942007533515261",
+      "handle": "@emollick",
+      "name": "Ethan Mollick",
+      "url": "https://x.com/emollick/status/2114942007533515261",
+      "views": 31034,
+      "likes": 514,
+      "reposts": 35,
+      "replies": 254,
+      "bookmarks": 80,
+      "posted_at": "2026-10-27T04:47:22.000Z",
+      "original_en": "The end of detailed summarized thinking traces for Claude and ChatGPT (likely both anti-distillation & for UX) has made being a human in the loop challenging. It pushes us towards automation, rather than augmentation, as it has become much harder to weigh in on in-process AI work",
+      "text": "The end of detailed summarized thinking traces for Claude and ChatGPT (likely both anti-distillation & for UX) has made being a human in the loop challenging. It pushes us towards automation, rather than augmentation, as it has become much harder to weigh in on in-process AI work",
+      "followers": 409354,
+      "star": true,
+      "highlight": true,
+      "is_quote": false,
+      "board_rank": 22
+    },
+    {
+      "id": "2114887892908883990",
+      "handle": "@bindureddy",
+      "name": "Bindu Reddy",
+      "url": "https://x.com/bindureddy/status/2114887892908883990",
+      "views": 19628,
+      "likes": 311,
+      "reposts": 19,
+      "replies": 63,
+      "bookmarks": 48,
+      "posted_at": "2026-10-27T01:12:21.000Z",
+      "original_en": "🚨 GPT 6.1 Terra Is The Cheapest Frontier Model Per Task\n\n-   cheaper than other frontier models\n-   comparable to Argon and Sonnet in total score\n-   very good at browser use\n\nA really good fit for personal agents and as a chatbot https://t.co/8e4ZHt1Csl",
+      "text": "🚨 GPT 6.1 Terra Is The Cheapest Frontier Model Per Task\n\n-   cheaper than other frontier models\n-   comparable to Argon and Sonnet in total score\n-   very good at browser use\n\nA really good fit for personal agents and as a chatbot https://t.co/8e4ZHt1Csl",
+      "followers": 395991,
+      "star": true,
+      "highlight": true,
+      "is_quote": false,
+      "media": "image",
+      "board_rank": 23
+    },
+    {
+      "id": "2114906803452690453",
+      "handle": "@bindureddy",
+      "name": "Bindu Reddy",
+      "url": "https://x.com/bindureddy/status/2114906803452690453",
+      "views": 9022,
+      "likes": 156,
+      "reposts": 5,
+      "replies": 57,
+      "bookmarks": 8,
+      "posted_at": "2026-10-27T02:27:29.000Z",
+      "original_en": "LOL! GPUs are long lasting than models \n\nGPUs can last up to 6 years while model weights become legacy in 6 months \n\nToday, it’s Fable and Astra, tomorrow it will be Bel and Carbon at a fraction of the price",
+      "text": "LOL! GPUs are long lasting than models \n\nGPUs can last up to 6 years while model weights become legacy in 6 months \n\nToday, it’s Fable and Astra, tomorrow it will be Bel and Carbon at a fraction of the price",
+      "followers": 395991,
+      "star": false,
+      "highlight": false,
+      "is_quote": false,
+      "board_rank": 24
+    },
+    {
+      "id": "2114945098052165906",
+      "handle": "@kevinweil",
+      "name": "Kevin Weil 🇺🇸",
+      "url": "https://x.com/kevinweil/status/2114945098052165906",
+      "views": 8562,
+      "likes": 52,
+      "reposts": 0,
+      "replies": 10,
+      "bookmarks": 7,
+      "posted_at": "2026-10-27T04:59:39.000Z",
+      "original_en": "\"Primarily for email\" is funny and somewhat true, but it won't be true for much longer https://t.co/ZMcKjYsDb1",
+      "text": "\"Primarily for email\" is funny and somewhat true, but it won't be true for much longer https://t.co/ZMcKjYsDb1",
+      "followers": 123833,
+      "star": false,
+      "highlight": false,
       "is_quote": true,
-      "visual_type": "photo"
+      "board_rank": 25
     },
     {
-      "id": "2114705745816006795",
-      "handle": "@levelsio",
-      "name": "@levelsio",
-      "url": "https://x.com/levelsio/status/2114705745816006795",
-      "views": 76215,
-      "likes": 1353,
-      "reposts": 14,
-      "replies": 127,
-      "bookmarks": 89,
-      "posted_at": "2026-10-26T13:08:33.000Z",
-      "original_en": "Guys literally only want one thing and it's ground beef and rice https://t.co/aiZSZjNqEg",
-      "text": "Guys literally only want one thing and it's ground beef and rice https://t.co/aiZSZjNqEg",
-      "followers": 982665,
-      "star": true,
-      "is_quote": true
-    },
-    {
-      "id": "2114769129282601053",
-      "handle": "@amasad",
-      "name": "Amjad Masad",
-      "url": "https://x.com/amasad/status/2114769129282601053",
-      "views": 71897,
-      "likes": 970,
-      "reposts": 97,
-      "replies": 83,
-      "bookmarks": 1118,
-      "posted_at": "2026-10-26T17:20:25.000Z",
-      "original_en": "Software ate the world, now it's learning to run it. https://t.co/e0XiyjLgv8",
-      "text": "Software ate the world, now it's learning to run it. https://t.co/e0XiyjLgv8",
-      "followers": 501530,
-      "star": true,
-      "is_quote": false
-    },
-    {
-      "id": "2114814292096700906",
-      "handle": "@paulg",
-      "name": "Paul Graham",
-      "url": "https://x.com/paulg/status/2114814292096700906",
-      "views": 51315,
-      "likes": 400,
-      "reposts": 12,
-      "replies": 69,
-      "bookmarks": 67,
-      "posted_at": "2026-10-26T20:19:53.000Z",
-      "original_en": "One of the most unexpected things about YC is how long we continue helping the founders. Even though we're generally the first investors, we're the ones still advising them 10 years later. I think it's because we're the investing analogue of old friends. https://t.co/Txn8silBrA",
-      "text": "One of the most unexpected things about YC is how long we continue helping the founders. Even though we're generally the first investors, we're the ones still advising them 10 years later. I think it's because we're the investing analogue of old friends. https://t.co/Txn8silBrA",
-      "followers": 5441499,
-      "star": true,
-      "is_quote": true
+      "id": "2114828017155600433",
+      "handle": "@MasterDotDev",
+      "name": "Master.dev (Formerly Frontend Masters)",
+      "url": "https://x.com/MasterDotDev/status/2114828017155600433",
+      "views": 5958,
+      "likes": 59,
+      "reposts": 3,
+      "replies": 8,
+      "bookmarks": 22,
+      "posted_at": "2026-10-26T21:14:25.000Z",
+      "original_en": "We have a ton of awesome AI courses now!\n\n- Codex with the OpenAI team\n- Claude Code with the Anthropic team\n- AI Agents, Applied AI Engineering, & Harness Engineering by Scott Moss\n- Local AI\n- Playwright / Testing\n- Build a fullstack app\n- MCP https://t.co/I2ExLYoSCJ",
+      "text": "We have a ton of awesome AI courses now!\n\n- Codex with the OpenAI team\n- Claude Code with the Anthropic team\n- AI Agents, Applied AI Engineering, & Harness Engineering by Scott Moss\n- Local AI\n- Playwright / Testing\n- Build a fullstack app\n- MCP https://t.co/I2ExLYoSCJ",
+      "followers": 133128,
+      "star": false,
+      "highlight": false,
+      "is_quote": false,
+      "media": "image",
+      "board_rank": 26
     }
   ],
   "patterns": [
-    "quote-post one-liners (elonmusk: 17/17 hits are quotes with 1-10 word commentary)",
-    "model launch + price (GPT-6.1 Terra, DeepSeek V4.1 Flash in Cursor)",
+    "quote-post one-liners (elonmusk: 6/6 D hits are short quotes or one-liners, incl. 2 with no words beyond emoji)",
+    "model launch + price / cost per task (GPT-6.1 Terra, DeepSeek V4.1 Flash in Cursor at $0.60-$0.98 per task)",
     "IPO / capital markets (Anthropic S-1)",
-    "computer use & agent SDKs (Terra, Cursor Agent SDK, Grok Bot calls)",
-    "AI-for-science claims (gdb: 3 discoveries)",
-    "Grok Bot as 'hire a competent employee'"
+    "computer use & agent SDKs (Terra, Cursor Agent SDK)",
+    "open weights / open source drops (Smaug Humanizer, T3 Code)",
+    "builder-in-public daily shipping logs (@theo T3 Code)"
   ],
   "no_hits": [
     {
       "handle": "@naval",
-      "reason": "No original posts on 2026-10-25 (America/Sao_Paulo).",
+      "reason": "No original posts on 2026-10-27 (America/Sao_Paulo) as of 10:20 local.",
       "max_views": 0
     },
     {
       "handle": "@sama",
-      "reason": "No original posts on 2026-10-25 (America/Sao_Paulo).",
+      "reason": "No original posts on 2026-10-27 (America/Sao_Paulo) as of 10:20 local.",
       "max_views": 0
     },
     {
       "handle": "@JensenHuang",
-      "reason": "No original posts on 2026-10-25 (America/Sao_Paulo).",
+      "reason": "No original posts on 2026-10-27 (America/Sao_Paulo) as of 10:20 local.",
       "max_views": 0
     },
     {
       "handle": "@AndrewYNg",
-      "reason": "No original posts on 2026-10-25 (America/Sao_Paulo).",
+      "reason": "No original posts on 2026-10-27 (America/Sao_Paulo) as of 10:20 local.",
       "max_views": 0
     },
     {
       "handle": "@demishassabis",
-      "reason": "No original posts on 2026-10-25 (America/Sao_Paulo).",
+      "reason": "No original posts on 2026-10-27 (America/Sao_Paulo) as of 10:20 local.",
       "max_views": 0
     },
     {
       "handle": "@PalantirTech",
-      "reason": "No original posts on 2026-10-25 (America/Sao_Paulo).",
+      "reason": "No original posts on 2026-10-27 (America/Sao_Paulo) as of 10:20 local.",
       "max_views": 0
     }
   ],
-  "virals_narrative": "Outsider AI 48h dominated by Anthropic's S-1 IPO filing (5.7M views) and OpenAI's GPT-6.1 Terra computer-use launch (2.8M + API/Codex follow-ups). Builder tooling (Cursor Agent SDK, DeepSeek V4.1 Flash) and AI-for-science claims rounded it out. Watchlist: only elonmusk posted originals on D; the other six were silent.",
-  "narrative_synthesis": "Outsider AI 48h dominated by Anthropic's S-1 IPO filing (5.7M views) and OpenAI's GPT-6.1 Terra computer-use launch (2.8M + API/Codex follow-ups). Builder tooling (Cursor Agent SDK, DeepSeek V4.1 Flash) and AI-for-science claims rounded it out. Watchlist: only elonmusk posted originals on D; the other six were silent.",
+  "virals_narrative": "Watchlist on 2026-10-27 (partial day, collected 10:20 BRT): only @elonmusk posted originals (6 hits, all quote/one-liners, 12,346,121 views). @sama (GPT-6.1 Terra, 671K) and @JensenHuang (GTC Berlin, 2.6M) posted on 26.10, outside D. Outsider AI 48h: Anthropic S-1 IPO filing (7.6M), OpenAI GPT-6.1 Terra computer use (4.5M), Abacus Smaug Humanizer open weights (1.05M), Claude for Nonprofits (601K), Cursor Agent SDK (325K) and DeepSeek V4.1 Flash in Cursor (259K), plus T3 Code / coding-agent chatter from @theo.",
+  "narrative_synthesis": "Watchlist on 2026-10-27 (partial day, collected 10:20 BRT): only @elonmusk posted originals (6 hits, all quote/one-liners, 12,346,121 views). @sama (GPT-6.1 Terra, 671K) and @JensenHuang (GTC Berlin, 2.6M) posted on 26.10, outside D. Outsider AI 48h: Anthropic S-1 IPO filing (7.6M), OpenAI GPT-6.1 Terra computer use (4.5M), Abacus Smaug Humanizer open weights (1.05M), Claude for Nonprofits (601K), Cursor Agent SDK (325K) and DeepSeek V4.1 Flash in Cursor (259K), plus T3 Code / coding-agent chatter from @theo.",
   "virals_window": "last ~48h",
   "virals_target": 20,
-  "hits_count": 17,
+  "hits_count": 6,
   "outsiders_count": 20,
   "previous_day": {
-    "date": "2026-10-26",
-    "hits_count": 0,
-    "total_views": 0,
+    "date": "2026-10-25",
+    "hits_count": 17,
+    "total_views": 56202816,
     "x_score": 0
   },
   "leaderboards": {
-    "as_of": "2026-10-25",
+    "as_of": "2026-10-27",
     "tracking_start": "2026-10-26",
-    "days_included": [],
-    "month_days_included": [],
+    "days_included": [
+      "2026-10-26",
+      "2026-10-27"
+    ],
+    "month_days_included": [
+      "2026-10-27"
+    ],
     "week": {
-      "label": "Rolling week",
-      "range": [
-        "2026-10-25",
-        "2026-10-25"
-      ],
-      "entries": []
-    },
-    "month": {
-      "label": "October 2026 · from Oct 26",
+      "label": "Rolling week · Oct 26–Oct 27",
       "range": [
         "2026-10-26",
-        "2026-10-25"
+        "2026-10-27"
       ],
-      "entries": []
+      "entries": [
+        {
+          "handle": "@elonmusk",
+          "name": "Elon Musk",
+          "hits": 6,
+          "days": 1,
+          "views": 12346121,
+          "best": 3546080,
+          "best_url": "https://x.com/elonmusk/status/2114973768473039185"
+        }
+      ]
+    },
+    "month": {
+      "label": "October 2026 · from Oct 27",
+      "range": [
+        "2026-10-27",
+        "2026-10-27"
+      ],
+      "entries": [
+        {
+          "handle": "@elonmusk",
+          "name": "Elon Musk",
+          "hits": 6,
+          "days": 1,
+          "views": 12346121,
+          "best": 3546080,
+          "best_url": "https://x.com/elonmusk/status/2114973768473039185"
+        }
+      ]
     }
   },
   "board_features": {
@@ -1414,10 +1484,10 @@
     {
       "handle": "@elonmusk",
       "name": "Elon Musk",
-      "hits": 17,
-      "total_views": 56202816,
-      "best_views": 7587274,
-      "best_url": "https://x.com/elonmusk/status/2114243303994486876"
+      "hits": 6,
+      "total_views": 12346121,
+      "best_views": 3546080,
+      "best_url": "https://x.com/elonmusk/status/2114973768473039185"
     },
     {
       "handle": "@naval",
@@ -1471,213 +1541,655 @@
   "you_rank": null,
   "trend_input_only_posts": [],
   "trend_input_only": [],
+  "excluded_hits": [],
+  "drafts_top10": [
+    {
+      "rank": 1,
+      "id": "2114705042817110293",
+      "handle": "@AnthropicAI",
+      "views": 7596883,
+      "lane": "outsider"
+    },
+    {
+      "rank": 2,
+      "id": "2114780711664398349",
+      "handle": "@OpenAI",
+      "views": 4476435,
+      "lane": "outsider"
+    },
+    {
+      "rank": 3,
+      "id": "2114973768473039185",
+      "handle": "@elonmusk",
+      "views": 3546080,
+      "lane": "watchlist"
+    },
+    {
+      "rank": 4,
+      "id": "2114930622238200202",
+      "handle": "@elonmusk",
+      "views": 2184701,
+      "lane": "watchlist"
+    },
+    {
+      "rank": 5,
+      "id": "2114944426271441127",
+      "handle": "@elonmusk",
+      "views": 1864546,
+      "lane": "watchlist"
+    },
+    {
+      "rank": 6,
+      "id": "2114931068365414757",
+      "handle": "@elonmusk",
+      "views": 1619286,
+      "lane": "watchlist"
+    },
+    {
+      "rank": 7,
+      "id": "2114936152205697247",
+      "handle": "@elonmusk",
+      "views": 1572866,
+      "lane": "watchlist"
+    },
+    {
+      "rank": 8,
+      "id": "2114967042952687676",
+      "handle": "@elonmusk",
+      "views": 1558642,
+      "lane": "watchlist"
+    },
+    {
+      "rank": 9,
+      "id": "2114938847704571975",
+      "handle": "@bindureddy",
+      "views": 1053743,
+      "lane": "outsider"
+    },
+    {
+      "rank": 10,
+      "id": "2114780227465338985",
+      "handle": "@claudeai",
+      "views": 601466,
+      "lane": "outsider"
+    }
+  ],
+  "trend_keywords": {
+    "date": "2026-10-27",
+    "window": "day D board posts + last-24h posts >= min_views + outsiders + trend-input accounts + pattern brief",
+    "method": "sum(log10 views) over distinct posts x author spread x phrase length x entity/brief bonus; >=2 authors",
+    "keywords": [
+      {
+        "keyword": "agents",
+        "rank": 1,
+        "score": 139.1,
+        "posts": 7,
+        "authors": 7
+      },
+      {
+        "keyword": "Terra",
+        "rank": 2,
+        "score": 72.9,
+        "posts": 4,
+        "authors": 4
+      },
+      {
+        "keyword": "model",
+        "rank": 3,
+        "score": 66.1,
+        "posts": 5,
+        "authors": 4
+      },
+      {
+        "keyword": "GPT-6.1 Terra",
+        "rank": 4,
+        "score": 33.5,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Claude",
+        "rank": 5,
+        "score": 29.8,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "6.1 Terra",
+        "rank": 6,
+        "score": 28.9,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Anthropic",
+        "rank": 7,
+        "score": 23.4,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Grok Bot",
+        "rank": 8,
+        "score": 22.5,
+        "posts": 2,
+        "authors": 1
+      },
+      {
+        "keyword": "Europe",
+        "rank": 9,
+        "score": 21.5,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Code",
+        "rank": 10,
+        "score": 19.0,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "AI agents",
+        "rank": 11,
+        "score": 18.2,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Starlink",
+        "rank": 12,
+        "score": 17.2,
+        "posts": 2,
+        "authors": 1
+      },
+      {
+        "keyword": "ChatGPT",
+        "rank": 13,
+        "score": 16.2,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Codex",
+        "rank": 14,
+        "score": 15.0,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "DeepSeek V4.1 Flash",
+        "rank": 15,
+        "score": 14.1,
+        "posts": 1,
+        "authors": 1
+      },
+      {
+        "keyword": "OpenAI",
+        "rank": 16,
+        "score": 14.1,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "local",
+        "rank": 17,
+        "score": 12.9,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Smaug Humanizer",
+        "rank": 18,
+        "score": 12.7,
+        "posts": 1,
+        "authors": 1
+      },
+      {
+        "keyword": "Agent SDK",
+        "rank": 19,
+        "score": 11.6,
+        "posts": 1,
+        "authors": 1
+      },
+      {
+        "keyword": "T3 Code",
+        "rank": 20,
+        "score": 10.4,
+        "posts": 1,
+        "authors": 1
+      },
+      {
+        "keyword": "Alex Padilla",
+        "rank": 21,
+        "curated": true
+      }
+    ]
+  },
   "trend_radar": {
-    "date": "2026-10-25",
+    "date": "2026-10-27",
     "title": "Trends and post ideas",
     "window": {
-      "end": "2026-10-26T23:03:47-03:00",
-      "label24": "25.10 23:03 - 26.10 23:03 UTC",
-      "label48": "24.10 23:03 - 26.10 23:03 UTC"
+      "end": "2026-10-27T10:20:43-03:00",
+      "label24": "26.10 10:20 - 27.10 10:20 UTC",
+      "label48": "25.10 10:20 - 27.10 10:20 UTC"
     },
     "corpus": {
-      "posts": 37,
+      "posts": 49,
       "min_views": 5000,
       "lanes": {
-        "watchlist": 17,
+        "watchlist": 6,
         "outsider": 20,
-        "24h": 0,
+        "24h": 23,
         "trend_input": 0
       }
     },
     "summary": {
-      "top10_line": "TOP-10: 1/10 (10%) matched trends · author/audience 9, trend 1",
-      "headline": "4 of 37 board hits (11%) matched 24-48 h trends. Median views: trend 97.6K vs non-trend 1.92M (mean 769.0K vs 1.96M). Watchlist: 0/17 on trend. 0 hits with video, median - vs - without.",
-      "takeaway": "Neither trend nor video decided it alone: keep the top radar topic, bet on a strong hook and usefulness (agents / GPT-6.1 Terra).",
+      "top10_line": "TOP-10: 1/10 (10%) matched trends · author/audience 8, trend 1, visual 1",
+      "headline": "7 of 26 board hits (27%) matched 24-48 h trends. Median views: trend 81.0K vs non-trend 258.8K (mean 723.8K vs 1.17M). Watchlist: 0/6 on trend. 3 hits with video, median 324.7K vs 59.2K without.",
+      "takeaway": "Partial day D: the AI lane was owned by launches and filings (Anthropic S-1, GPT-6.1 Terra), while the watchlist lane was Elon one-liners riding author reach.",
       "stats": {
         "all": {
-          "n": 37,
-          "trend_n": 4,
-          "trend_pct": 11,
-          "avg_trend": 768966,
-          "avg_other": 1963397,
-          "median_trend": 97564,
-          "median_other": 1924606,
+          "n": 26,
+          "trend_n": 7,
+          "trend_pct": 27,
+          "avg_trend": 723788,
+          "avg_other": 1174514,
+          "median_trend": 80959,
+          "median_other": 258832,
           "verdicts": {
-            "trend": 4,
-            "visual": 0,
-            "author/audience": 19,
-            "coincidence/other": 14
+            "trend": 7,
+            "visual": 5,
+            "author/audience": 8,
+            "coincidence/other": 6
           }
         },
         "watchlist": {
-          "n": 17,
+          "n": 6,
           "trend_n": 0,
           "trend_pct": 0,
           "avg_trend": null,
-          "avg_other": 3306048,
+          "avg_other": 2057687,
           "median_trend": null,
-          "median_other": 2797715,
+          "median_other": 1741916,
           "verdicts": {
             "trend": 0,
             "visual": 0,
-            "author/audience": 17,
+            "author/audience": 6,
             "coincidence/other": 0
           }
         },
         "outsiders": {
           "n": 20,
-          "trend_n": 4,
-          "trend_pct": 20,
-          "avg_trend": 768966,
-          "avg_other": 536831,
-          "median_trend": 97564,
-          "median_other": 140547,
+          "trend_n": 7,
+          "trend_pct": 35,
+          "avg_trend": 723788,
+          "avg_other": 766896,
+          "median_trend": 80959,
+          "median_other": 72825,
           "verdicts": {
-            "trend": 4,
-            "visual": 0,
+            "trend": 7,
+            "visual": 5,
             "author/audience": 2,
-            "coincidence/other": 14
+            "coincidence/other": 6
           }
         },
         "top10": {
           "n": 10,
           "trend_n": 1,
           "trend_pct": 10,
-          "avg_trend": 2802128,
-          "avg_other": 4620195,
-          "median_trend": 2802128,
-          "median_other": 4360241,
+          "avg_trend": 4476435,
+          "avg_other": 2399801,
+          "median_trend": 4476435,
+          "median_other": 1619286,
           "verdicts": {
             "trend": 1,
-            "visual": 0,
-            "author/audience": 9,
+            "visual": 1,
+            "author/audience": 8,
             "coincidence/other": 0
           }
         },
         "media": {
-          "video_n": 0,
-          "median_video": null,
-          "other_n": 0,
-          "median_other": null
+          "video_n": 3,
+          "median_video": 324688,
+          "other_n": 8,
+          "median_other": 59226
         }
       }
     },
     "topics": [
       {
-        "name": "agents / GPT-6.1 Terra",
+        "name": "Computer use",
         "keywords": [
-          "agents",
           "GPT-6.1 Terra",
-          "AI agents"
+          "Codex",
+          "ChatGPT",
+          "OpenAI"
         ],
-        "posts_24h": 4,
-        "posts_48h": 5,
-        "views_24h": 3199609,
-        "views_prev24h": 91051,
-        "views_48h": 3290660,
-        "momentum": "up x4.37",
-        "heat_raw": 24.17,
+        "posts_24h": 6,
+        "posts_48h": 6,
+        "views_24h": 4801392,
+        "views_prev24h": 0,
+        "views_48h": 4801392,
+        "momentum": "new · 24 h only",
+        "heat_raw": 29.69,
         "evidence": [
           {
             "handle": "@OpenAI",
-            "views": 2802128,
+            "views": 4476435,
             "url": "https://x.com/OpenAI/status/2114780711664398349",
             "hook": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price.",
             "lane": "outsider"
           },
           {
-            "handle": "@cursor_ai",
-            "views": 214797,
-            "url": "https://x.com/cursor_ai/status/2114793714531102901",
-            "hook": "The Agent SDK is now available.",
+            "handle": "@OpenAIDevs",
+            "views": 127222,
+            "url": "https://x.com/OpenAIDevs/status/2114780986613682473",
+            "hook": "GPT-6.1 Terra is also coming to the API and Codex.",
             "lane": "outsider"
           },
           {
-            "handle": "@OpenAIDevs",
-            "views": 104077,
-            "url": "https://x.com/OpenAIDevs/status/2114780986613682473",
-            "hook": "GPT-6.1 Terra is also coming to the API and Codex.",
+            "handle": "@theo",
+            "views": 123250,
+            "url": "https://x.com/theo/status/2114912639298191807",
+            "hook": "Never seen ChatGPT get so serious so fast before",
             "lane": "outsider"
           }
         ],
         "heat": 100
       },
       {
-        "name": "model",
+        "name": "Coding agents",
         "keywords": [
-          "model"
+          "AI agents",
+          "DeepSeek V4.1 Flash",
+          "Agent SDK",
+          "Cursor",
+          "T3 Code"
         ],
-        "posts_24h": 2,
-        "posts_48h": 2,
-        "views_24h": 2903045,
+        "posts_24h": 5,
+        "posts_48h": 5,
+        "views_24h": 702065,
         "views_prev24h": 0,
-        "views_48h": 2903045,
+        "views_48h": 702065,
         "momentum": "new · 24 h only",
-        "heat_raw": 11.45,
+        "heat_raw": 24.11,
         "evidence": [
           {
-            "handle": "@OpenAI",
-            "views": 2802128,
-            "url": "https://x.com/OpenAI/status/2114780711664398349",
-            "hook": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price.",
+            "handle": "@cursor_ai",
+            "views": 324688,
+            "url": "https://x.com/cursor_ai/status/2114793714531102901",
+            "hook": "The Agent SDK is now available.",
             "lane": "outsider"
           },
           {
             "handle": "@cursor_ai",
-            "views": 100917,
+            "views": 258832,
             "url": "https://x.com/cursor_ai/status/2114839997568405608",
             "hook": "DeepSeek V4.1 Flash is now available in Cursor!",
             "lane": "outsider"
+          },
+          {
+            "handle": "@theo",
+            "views": 80959,
+            "url": "https://x.com/theo/status/2114955692193054930",
+            "hook": "Day 23/",
+            "lane": "outsider"
           }
         ],
-        "heat": 47
+        "heat": 81
       },
       {
-        "name": "Grok Bot",
+        "name": "AI IPO",
         "keywords": [
-          "Grok Bot"
+          "Claude",
+          "Anthropic"
         ],
-        "posts_24h": 0,
-        "posts_48h": 3,
-        "views_24h": 0,
-        "views_prev24h": 7507454,
-        "views_48h": 7507454,
-        "momentum": "down · previous 24 h only",
-        "heat_raw": 9.59,
+        "posts_24h": 3,
+        "posts_48h": 4,
+        "views_24h": 638458,
+        "views_prev24h": 7596883,
+        "views_48h": 8235341,
+        "momentum": "up x2.04",
+        "heat_raw": 17.49,
         "evidence": [
           {
-            "handle": "@elonmusk",
-            "views": 2797715,
-            "url": "https://x.com/elonmusk/status/2114375896073216334",
-            "hook": "The best way to use Grok Bot is assume you are hiring a super competent employee",
-            "lane": "watchlist"
+            "handle": "@AnthropicAI",
+            "views": 7596883,
+            "url": "https://x.com/AnthropicAI/status/2114705042817110293",
+            "hook": "Anthropic has filed an S-1 registration statement with the SEC related to its proposed IPO.",
+            "lane": "outsider"
           },
           {
-            "handle": "@elonmusk",
-            "views": 2785133,
-            "url": "https://x.com/elonmusk/status/2114365361068138990",
-            "hook": "Grok Bot can now call someone or a business for you, make a request on your behalf, take notes on the response and send you a note summarizing the conversation!",
-            "lane": "watchlist"
+            "handle": "@claudeai",
+            "views": 601466,
+            "url": "https://x.com/claudeai/status/2114780227465338985",
+            "hook": "More than 25,000 nonprofits now use Claude. Most are small, local teams.",
+            "lane": "outsider"
           },
           {
-            "handle": "@elonmusk",
-            "views": 1924606,
-            "url": "https://x.com/elonmusk/status/2114364277595488330",
-            "hook": "Try Grok Bot",
-            "lane": "watchlist"
+            "handle": "@emollick",
+            "views": 31034,
+            "url": "https://x.com/emollick/status/2114942007533515261",
+            "hook": "The end of detailed summarized thinking traces for Claude and ChatGPT (likely both anti-distillation & for UX) has made being a human in the loop challenging. I",
+            "lane": "outsider"
           }
         ],
-        "heat": 40
+        "heat": 59
+      },
+      {
+        "name": "Open weights",
+        "keywords": [
+          "Smaug Humanizer"
+        ],
+        "posts_24h": 1,
+        "posts_48h": 1,
+        "views_24h": 1053743,
+        "views_prev24h": 0,
+        "views_48h": 1053743,
+        "momentum": "new · 24 h only",
+        "heat_raw": 6.02,
+        "evidence": [
+          {
+            "handle": "@bindureddy",
+            "views": 1053743,
+            "url": "https://x.com/bindureddy/status/2114938847704571975",
+            "hook": "🚨 Announcing Smaug Humanizer - Humanize your AI-generated text in your tone",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 20
       }
     ],
-    "ideas": [],
-    "articles": [],
+    "ideas": [
+      {
+        "title": "Where did the thinking traces go?",
+        "topic": "Computer use",
+        "keywords": [
+          "ChatGPT",
+          "Claude"
+        ],
+        "format": "meme",
+        "visual_type": "meme",
+        "visual": "Two-panel meme: 'reading the model's full reasoning' vs 'now: a one-line summary', with ChatGPT and Claude logos.",
+        "angle": "Ethan Mollick noted detailed summarized thinking traces are gone from Claude and ChatGPT - ask builders what they lost.",
+        "hook_en": "Detailed thinking traces are gone from both ChatGPT and Claude. What did you actually use them for?",
+        "why": "Mollick's post on the end of thinking traces got 31,034 views; ChatGPT is the #1 keyword in the X sample.",
+        "x_keywords": [
+          "ChatGPT"
+        ],
+        "x_rank": 1,
+        "source": "x-keywords"
+      },
+      {
+        "title": "GPT-6.1 Terra driving my desktop in Codex",
+        "topic": "Computer use",
+        "keywords": [
+          "Codex",
+          "OpenAI",
+          "GPT-6.1 Terra"
+        ],
+        "format": "screencast",
+        "visual_type": "screencast",
+        "visual": "60s screen recording: one real task (fill a spreadsheet from a PDF) handed to GPT-6.1 Terra in Codex, timer in the corner.",
+        "angle": "OpenAI says GPT-6.1 Terra does computer use faster and cheaper - test it on one boring task from your own week inside Codex.",
+        "hook_en": "OpenAI says GPT-6.1 Terra can run your screen. I gave it one boring task in Codex and kept the timer on.",
+        "why": "OpenAI's Terra launch post hit 4,476,435 views; Codex is up x12.0 in the X keyword sample.",
+        "x_keywords": [
+          "Codex",
+          "OpenAI"
+        ],
+        "x_rank": 2,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Does Smaug Humanizer beat the AI-slop smell?",
+        "topic": "Open weights",
+        "keywords": [
+          "Smaug Humanizer",
+          "LLM"
+        ],
+        "format": "image",
+        "visual_type": "image",
+        "visual": "Before/after image: the same LLM paragraph raw vs passed through Smaug Humanizer, differences highlighted.",
+        "angle": "Side-by-side test of an LLM paragraph before and after Smaug Humanizer (open weights on HF, built on Gemma).",
+        "hook_en": "Same LLM paragraph, two versions. One went through Smaug Humanizer. Can you tell which?",
+        "why": "Smaug Humanizer announcement reached 1,053,743 views; LLM is up x8.48 in the X keyword sample.",
+        "x_keywords": [
+          "LLM"
+        ],
+        "x_rank": 3,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Anthropic S-1 in 5 slides",
+        "topic": "AI IPO",
+        "keywords": [
+          "Anthropic",
+          "Claude"
+        ],
+        "format": "carousel",
+        "visual_type": "carousel",
+        "visual": "5-slide carousel: what an S-1 is, what 'not yet effective' means, timeline of an IPO, what changes for Claude users, what to watch.",
+        "angle": "Plain-language explainer of what Anthropic filing an S-1 actually means and what it does not mean yet for Claude users.",
+        "hook_en": "Anthropic filed an S-1. Before the hot takes - here is what that filing does and does not mean for Claude users.",
+        "why": "Anthropic's S-1 post is the #1 board post at 7,596,883 views.",
+        "x_keywords": [
+          "Anthropic"
+        ],
+        "x_rank": 5,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Claude for Nonprofits: what small local teams get",
+        "topic": "AI IPO",
+        "keywords": [
+          "Claude",
+          "Anthropic",
+          "local"
+        ],
+        "format": "carousel",
+        "visual_type": "carousel",
+        "visual": "4-slide carousel: the 25,000 figure, the plugin built with about 30 nonprofits, the 3 skills (fundraising, marketing, hiring), how to start.",
+        "angle": "Anthropic says more than 25,000 nonprofits use Claude, most of them small local teams - break down the new plugin skills.",
+        "hook_en": "Most of the 25,000 nonprofits on Claude are small local teams. Anthropic just gave them three new skills.",
+        "why": "The Claude for Nonprofits post reached 601,466 views.",
+        "x_keywords": [
+          "Anthropic"
+        ],
+        "x_rank": 5,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Agents as code with the Cursor Agent SDK",
+        "topic": "Coding agents",
+        "keywords": [
+          "Agent SDK",
+          "AI agents",
+          "Cursor"
+        ],
+        "format": "screencast",
+        "visual_type": "screencast",
+        "visual": "Screencast: one agent defined with a Markdown prompt + one TypeScript tool, deployed, then triggered.",
+        "angle": "Cursor's Agent SDK treats AI agents like code - prompts in Markdown, tools in TypeScript. Show the smallest useful one.",
+        "hook_en": "Cursor just made AI agents look like a normal repo: prompt in Markdown, tools in TypeScript. Here is the smallest one worth shipping.",
+        "why": "Cursor's Agent SDK post reached 324,688 views in the 48h outsider lane.",
+        "x_keywords": [
+          "AI agents",
+          "Cursor"
+        ],
+        "x_rank": 10,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Cost per task chart: DeepSeek V4.1 Flash in Cursor",
+        "topic": "Coding agents",
+        "keywords": [
+          "DeepSeek V4.1 Flash",
+          "Cursor"
+        ],
+        "format": "image",
+        "visual_type": "image",
+        "visual": "Simple bar chart redrawn from Cursor's post: cost per task per effort level ($0.60 to $0.98), source linked.",
+        "angle": "Cost per task is becoming the metric that matters - DeepSeek V4.1 Flash in Cursor ranges from $0.60 to $0.98 per task by effort level.",
+        "hook_en": "Stop comparing models by benchmark alone. DeepSeek V4.1 Flash in Cursor: $0.60 to $0.98 per task. That is the number to watch.",
+        "why": "Cursor's DeepSeek V4.1 Flash post hit 258,832 views.",
+        "x_keywords": [
+          "Cursor"
+        ],
+        "x_rank": 16,
+        "source": "x-keywords"
+      }
+    ],
+    "articles": [
+      {
+        "title": "The computer use era: GPT-6.1 Terra, Codex and the new cost frontier",
+        "thesis": "Computer use stopped being a demo this week: OpenAI shipped GPT-6.1 Terra to ChatGPT, Codex and the API, and cost per task became the headline metric.",
+        "outline": [
+          "What OpenAI shipped with GPT-6.1 Terra",
+          "Computer use in Codex: what to test first",
+          "Cost per task vs benchmarks (Terra, DeepSeek V4.1 Flash)",
+          "What to automate this week"
+        ],
+        "keywords": [
+          "OpenAI",
+          "Codex",
+          "GPT-6.1 Terra",
+          "DeepSeek V4.1 Flash"
+        ],
+        "visual": "Cover: screenshot of an agent operating a desktop; inline: cost-per-task chart from public posts.",
+        "why": "OpenAI Terra post 4,476,435 views; Codex up x12.0 and OpenAI up x32.63 in the X keyword sample.",
+        "x_keywords": [
+          "OpenAI",
+          "Codex"
+        ]
+      },
+      {
+        "title": "Anthropic goes public: what the S-1 means for builders on Claude",
+        "thesis": "An S-1 changes what a lab has to disclose and how it ships - builders on Claude should know what to watch.",
+        "outline": [
+          "What an S-1 is and what 'not effective yet' means",
+          "Why the IPO matters for Claude pricing and roadmap",
+          "Nonprofits, enterprise and the user base story",
+          "What to watch next"
+        ],
+        "keywords": [
+          "Anthropic",
+          "Claude"
+        ],
+        "visual": "Cover: timeline graphic from S-1 filing to listing; inline: carousel slides reused.",
+        "why": "Anthropic S-1 post is the top board post (7,596,883 views).",
+        "x_keywords": [
+          "Anthropic"
+        ]
+      }
+    ],
     "why_hit": [
       {
-        "id": "2114243303994486876",
+        "id": "2114973768473039185",
         "handle": "@elonmusk",
         "lane": "watchlist",
-        "views": 7587274,
+        "views": 3546080,
         "trend_match": 0,
         "verdict": "author/audience",
         "matched_keywords": [],
@@ -1688,10 +2200,10 @@
         "note": "media: no data, followers: no data (estimate from reach >= 500K)"
       },
       {
-        "id": "2114471229994520809",
+        "id": "2114930622238200202",
         "handle": "@elonmusk",
         "lane": "watchlist",
-        "views": 4661537,
+        "views": 2184701,
         "trend_match": 0,
         "verdict": "author/audience",
         "matched_keywords": [],
@@ -1702,10 +2214,10 @@
         "note": "media: no data, followers: no data (estimate from reach >= 500K)"
       },
       {
-        "id": "2114377735841730673",
+        "id": "2114944426271441127",
         "handle": "@elonmusk",
         "lane": "watchlist",
-        "views": 4421031,
+        "views": 1864546,
         "trend_match": 0,
         "verdict": "author/audience",
         "matched_keywords": [],
@@ -1716,10 +2228,10 @@
         "note": "media: no data, followers: no data (estimate from reach >= 500K)"
       },
       {
-        "id": "2114507338249875500",
+        "id": "2114931068365414757",
         "handle": "@elonmusk",
         "lane": "watchlist",
-        "views": 4360241,
+        "views": 1619286,
         "trend_match": 0,
         "verdict": "author/audience",
         "matched_keywords": [],
@@ -1730,10 +2242,10 @@
         "note": "media: no data, followers: no data (estimate from reach >= 500K)"
       },
       {
-        "id": "2114431411994386599",
+        "id": "2114936152205697247",
         "handle": "@elonmusk",
         "lane": "watchlist",
-        "views": 4115301,
+        "views": 1572866,
         "trend_match": 0,
         "verdict": "author/audience",
         "matched_keywords": [],
@@ -1744,164 +2256,10 @@
         "note": "media: no data, followers: no data (estimate from reach >= 500K)"
       },
       {
-        "id": "2114461409811816467",
+        "id": "2114967042952687676",
         "handle": "@elonmusk",
         "lane": "watchlist",
-        "views": 3922486,
-        "trend_match": 0,
-        "verdict": "author/audience",
-        "matched_keywords": [],
-        "media": "no data",
-        "followers": null,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: no data, followers: no data (estimate from reach >= 500K)"
-      },
-      {
-        "id": "2114455152136745221",
-        "handle": "@elonmusk",
-        "lane": "watchlist",
-        "views": 3838577,
-        "trend_match": 0,
-        "verdict": "author/audience",
-        "matched_keywords": [],
-        "media": "no data",
-        "followers": null,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: no data, followers: no data (estimate from reach >= 500K)"
-      },
-      {
-        "id": "2114370625582330326",
-        "handle": "@elonmusk",
-        "lane": "watchlist",
-        "views": 2984434,
-        "trend_match": 0,
-        "verdict": "author/audience",
-        "matched_keywords": [],
-        "media": "no data",
-        "followers": null,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: no data, followers: no data (estimate from reach >= 500K)"
-      },
-      {
-        "id": "2114375896073216334",
-        "handle": "@elonmusk",
-        "lane": "watchlist",
-        "views": 2797715,
-        "trend_match": 0,
-        "verdict": "author/audience",
-        "matched_keywords": [],
-        "media": "no data",
-        "followers": null,
-        "topic": "Grok Bot",
-        "self_quote": false,
-        "note": "media: no data, followers: no data (estimate from reach >= 500K)"
-      },
-      {
-        "id": "2114365361068138990",
-        "handle": "@elonmusk",
-        "lane": "watchlist",
-        "views": 2785133,
-        "trend_match": 0,
-        "verdict": "author/audience",
-        "matched_keywords": [],
-        "media": "no data",
-        "followers": null,
-        "topic": "Grok Bot",
-        "self_quote": false,
-        "note": "media: no data, followers: no data (estimate from reach >= 500K)"
-      },
-      {
-        "id": "2114205004340854795",
-        "handle": "@elonmusk",
-        "lane": "watchlist",
-        "views": 2607325,
-        "trend_match": 0,
-        "verdict": "author/audience",
-        "matched_keywords": [],
-        "media": "no data",
-        "followers": null,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: no data, followers: no data (estimate from reach >= 500K)"
-      },
-      {
-        "id": "2114242922006897145",
-        "handle": "@elonmusk",
-        "lane": "watchlist",
-        "views": 2421695,
-        "trend_match": 0,
-        "verdict": "author/audience",
-        "matched_keywords": [],
-        "media": "no data",
-        "followers": null,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: no data, followers: no data (estimate from reach >= 500K)"
-      },
-      {
-        "id": "2114205997350690837",
-        "handle": "@elonmusk",
-        "lane": "watchlist",
-        "views": 2147733,
-        "trend_match": 0,
-        "verdict": "author/audience",
-        "matched_keywords": [],
-        "media": "no data",
-        "followers": null,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: no data, followers: no data (estimate from reach >= 500K)"
-      },
-      {
-        "id": "2114442930891206870",
-        "handle": "@elonmusk",
-        "lane": "watchlist",
-        "views": 2133261,
-        "trend_match": 0,
-        "verdict": "author/audience",
-        "matched_keywords": [],
-        "media": "no data",
-        "followers": null,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: no data, followers: no data (estimate from reach >= 500K)"
-      },
-      {
-        "id": "2114513919566033266",
-        "handle": "@elonmusk",
-        "lane": "watchlist",
-        "views": 2060816,
-        "trend_match": 0,
-        "verdict": "author/audience",
-        "matched_keywords": [],
-        "media": "no data",
-        "followers": null,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: no data, followers: no data (estimate from reach >= 500K)"
-      },
-      {
-        "id": "2114364277595488330",
-        "handle": "@elonmusk",
-        "lane": "watchlist",
-        "views": 1924606,
-        "trend_match": 0,
-        "verdict": "author/audience",
-        "matched_keywords": [],
-        "media": "no data",
-        "followers": null,
-        "topic": "Grok Bot",
-        "self_quote": false,
-        "note": "media: no data, followers: no data (estimate from reach >= 500K)"
-      },
-      {
-        "id": "2114235125496250766",
-        "handle": "@elonmusk",
-        "lane": "watchlist",
-        "views": 1433651,
+        "views": 1558642,
         "trend_match": 0,
         "verdict": "author/audience",
         "matched_keywords": [],
@@ -1915,13 +2273,15 @@
         "id": "2114705042817110293",
         "handle": "@AnthropicAI",
         "lane": "outsider",
-        "views": 5690874,
-        "trend_match": 0,
+        "views": 7596883,
+        "trend_match": 35,
         "verdict": "author/audience",
-        "matched_keywords": [],
+        "matched_keywords": [
+          "Anthropic"
+        ],
         "media": "no data",
         "followers": null,
-        "topic": null,
+        "topic": "AI IPO",
         "self_quote": false,
         "note": "media: no data, followers: no data (estimate from reach >= 500K)"
       },
@@ -1929,169 +2289,269 @@
         "id": "2114780711664398349",
         "handle": "@OpenAI",
         "lane": "outsider",
-        "views": 2802128,
-        "trend_match": 58,
+        "views": 4476435,
+        "trend_match": 82,
         "verdict": "trend",
         "matched_keywords": [
+          "Terra",
+          "model",
           "GPT-6.1 Terra",
-          "model"
+          "6.1 Terra"
         ],
-        "media": "no data",
+        "media": "video",
         "followers": null,
-        "topic": "agents / GPT-6.1 Terra",
+        "topic": "Computer use",
         "self_quote": false,
-        "note": "media: no data, followers: no data"
+        "note": "followers: no data"
       },
       {
-        "id": "2114837059462627533",
-        "handle": "@gdb",
+        "id": "2114938847704571975",
+        "handle": "@bindureddy",
         "lane": "outsider",
-        "views": 618381,
+        "views": 1053743,
         "trend_match": 0,
-        "verdict": "author/audience",
+        "verdict": "visual",
         "matched_keywords": [],
-        "media": "no data",
+        "media": "image",
         "followers": null,
-        "topic": null,
+        "topic": "Open weights",
         "self_quote": false,
-        "note": "media: no data, followers: no data (estimate from reach >= 500K)"
+        "note": "followers: no data"
       },
       {
         "id": "2114780227465338985",
         "handle": "@claudeai",
         "lane": "outsider",
-        "views": 404509,
-        "trend_match": 0,
-        "verdict": "coincidence/other",
-        "matched_keywords": [],
+        "views": 601466,
+        "trend_match": 49,
+        "verdict": "author/audience",
+        "matched_keywords": [
+          "Claude",
+          "local"
+        ],
         "media": "no data",
         "followers": null,
-        "topic": null,
+        "topic": "AI IPO",
         "self_quote": false,
-        "note": "media: no data, followers: no data"
-      },
-      {
-        "id": "2114787151619485852",
-        "handle": "@paulg",
-        "lane": "outsider",
-        "views": 390157,
-        "trend_match": 0,
-        "verdict": "coincidence/other",
-        "matched_keywords": [],
-        "media": "no data",
-        "followers": null,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: no data, followers: no data"
-      },
-      {
-        "id": "2114751107293749731",
-        "handle": "@pmarca",
-        "lane": "outsider",
-        "views": 223289,
-        "trend_match": 0,
-        "verdict": "coincidence/other",
-        "matched_keywords": [],
-        "media": "no data",
-        "followers": null,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: no data, followers: no data"
+        "note": "media: no data, followers: no data (estimate from reach >= 500K)"
       },
       {
         "id": "2114793714531102901",
         "handle": "@cursor_ai",
         "lane": "outsider",
-        "views": 214797,
-        "trend_match": 35,
-        "verdict": "coincidence/other",
-        "matched_keywords": [
-          "agents"
-        ],
-        "media": "no data",
-        "followers": null,
-        "topic": "agents / GPT-6.1 Terra",
-        "self_quote": false,
-        "note": "media: no data, followers: no data"
-      },
-      {
-        "id": "2114792905973838057",
-        "handle": "@levelsio",
-        "lane": "outsider",
-        "views": 209039,
-        "trend_match": 0,
-        "verdict": "coincidence/other",
-        "matched_keywords": [],
-        "media": "no data",
-        "followers": null,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: no data, followers: no data"
-      },
-      {
-        "id": "2114700426528575817",
-        "handle": "@levelsio",
-        "lane": "outsider",
-        "views": 156368,
-        "trend_match": 0,
-        "verdict": "coincidence/other",
-        "matched_keywords": [],
-        "media": "no data",
-        "followers": null,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: no data, followers: no data"
-      },
-      {
-        "id": "2114860693585563907",
-        "handle": "@gdb",
-        "lane": "outsider",
-        "views": 124726,
-        "trend_match": 0,
-        "verdict": "coincidence/other",
-        "matched_keywords": [],
-        "media": "no data",
-        "followers": null,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: no data, followers: no data"
-      },
-      {
-        "id": "2114780986613682473",
-        "handle": "@OpenAIDevs",
-        "lane": "outsider",
-        "views": 104077,
+        "views": 324688,
         "trend_match": 58,
         "verdict": "trend",
         "matched_keywords": [
           "agents",
-          "GPT-6.1 Terra"
+          "Code"
         ],
-        "media": "no data",
+        "media": "video",
         "followers": null,
-        "topic": "agents / GPT-6.1 Terra",
+        "topic": "Coding agents",
         "self_quote": false,
-        "note": "media: no data, followers: no data"
-      },
-      {
-        "id": "2114791686761247162",
-        "handle": "@paulg",
-        "lane": "outsider",
-        "views": 101358,
-        "trend_match": 0,
-        "verdict": "coincidence/other",
-        "matched_keywords": [],
-        "media": "no data",
-        "followers": null,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: no data, followers: no data"
+        "note": "followers: no data"
       },
       {
         "id": "2114839997568405608",
         "handle": "@cursor_ai",
         "lane": "outsider",
-        "views": 100917,
+        "views": 258832,
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "model"
+        ],
+        "media": "image",
+        "followers": null,
+        "topic": "Coding agents",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114780986613682473",
+        "handle": "@OpenAIDevs",
+        "lane": "outsider",
+        "views": 127222,
+        "trend_match": 86,
+        "verdict": "trend",
+        "matched_keywords": [
+          "agents",
+          "Terra",
+          "GPT-6.1 Terra",
+          "6.1 Terra",
+          "Codex"
+        ],
+        "media": "no data",
+        "followers": null,
+        "topic": "Computer use",
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114912639298191807",
+        "handle": "@theo",
+        "lane": "outsider",
+        "views": 123250,
+        "trend_match": 22,
+        "verdict": "visual",
+        "matched_keywords": [
+          "ChatGPT"
+        ],
+        "media": "image",
+        "followers": null,
+        "topic": "Computer use",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114963025409257706",
+        "handle": "@theo",
+        "lane": "outsider",
+        "views": 86653,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114955692193054930",
+        "handle": "@theo",
+        "lane": "outsider",
+        "views": 80959,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "agents",
+          "Code"
+        ],
+        "media": "image",
+        "followers": null,
+        "topic": "Coding agents",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114978312426791384",
+        "handle": "@theo",
+        "lane": "outsider",
+        "views": 72825,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114827978748383342",
+        "handle": "@nvidia",
+        "lane": "outsider",
+        "views": 47462,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114837274550747603",
+        "handle": "@OpenAIDevs",
+        "lane": "outsider",
+        "views": 42422,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114890745471545419",
+        "handle": "@amasad",
+        "lane": "outsider",
+        "views": 37493,
+        "trend_match": 22,
+        "verdict": "visual",
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "media": "image",
+        "followers": null,
+        "topic": "Computer use",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114744206875074693",
+        "handle": "@Marktechpost",
+        "lane": "outsider",
+        "views": 31628,
+        "trend_match": 67,
+        "verdict": "trend",
+        "matched_keywords": [
+          "agents",
+          "model",
+          "AI agents"
+        ],
+        "media": "image",
+        "followers": null,
+        "topic": "Coding agents",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114942007533515261",
+        "handle": "@emollick",
+        "lane": "outsider",
+        "views": 31034,
+        "trend_match": 49,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "Claude",
+          "ChatGPT"
+        ],
+        "media": "no data",
+        "followers": null,
+        "topic": "Computer use",
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114887892908883990",
+        "handle": "@bindureddy",
+        "lane": "outsider",
+        "views": 19628,
+        "trend_match": 82,
+        "verdict": "trend",
+        "matched_keywords": [
+          "agents",
+          "Terra",
+          "model",
+          "6.1 Terra"
+        ],
+        "media": "image",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114906803452690453",
+        "handle": "@bindureddy",
+        "lane": "outsider",
+        "views": 9022,
         "trend_match": 35,
         "verdict": "coincidence/other",
         "matched_keywords": [
@@ -2099,113 +2559,46 @@
         ],
         "media": "no data",
         "followers": null,
-        "topic": "model",
+        "topic": null,
         "self_quote": false,
         "note": "media: no data, followers: no data"
       },
       {
-        "id": "2114377680715980950",
-        "handle": "@nvidia",
+        "id": "2114945098052165906",
+        "handle": "@kevinweil",
         "lane": "outsider",
-        "views": 91051,
-        "trend_match": 58,
+        "views": 8562,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114828017155600433",
+        "handle": "@MasterDotDev",
+        "lane": "outsider",
+        "views": 5958,
+        "trend_match": 93,
         "verdict": "trend",
         "matched_keywords": [
           "agents",
-          "AI agents"
+          "Claude",
+          "Anthropic",
+          "Code",
+          "AI agents",
+          "Codex",
+          "OpenAI",
+          "local"
         ],
-        "media": "no data",
+        "media": "image",
         "followers": null,
-        "topic": "agents / GPT-6.1 Terra",
+        "topic": "Computer use",
         "self_quote": false,
-        "note": "media: no data, followers: no data"
-      },
-      {
-        "id": "2114795869081939998",
-        "handle": "@paulg",
-        "lane": "outsider",
-        "views": 78727,
-        "trend_match": 0,
-        "verdict": "coincidence/other",
-        "matched_keywords": [],
-        "media": "no data",
-        "followers": null,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: no data, followers: no data"
-      },
-      {
-        "id": "2114760898225299721",
-        "handle": "@amasad",
-        "lane": "outsider",
-        "views": 78607,
-        "trend_match": 58,
-        "verdict": "trend",
-        "matched_keywords": [
-          "agents",
-          "AI agents"
-        ],
-        "media": "no data",
-        "followers": null,
-        "topic": "agents / GPT-6.1 Terra",
-        "self_quote": false,
-        "note": "media: no data, followers: no data"
-      },
-      {
-        "id": "2114814747254432243",
-        "handle": "@gdb",
-        "lane": "outsider",
-        "views": 76729,
-        "trend_match": 0,
-        "verdict": "coincidence/other",
-        "matched_keywords": [],
-        "media": "no data",
-        "followers": null,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: no data, followers: no data"
-      },
-      {
-        "id": "2114705745816006795",
-        "handle": "@levelsio",
-        "lane": "outsider",
-        "views": 76215,
-        "trend_match": 0,
-        "verdict": "coincidence/other",
-        "matched_keywords": [],
-        "media": "no data",
-        "followers": null,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: no data, followers: no data"
-      },
-      {
-        "id": "2114769129282601053",
-        "handle": "@amasad",
-        "lane": "outsider",
-        "views": 71897,
-        "trend_match": 0,
-        "verdict": "coincidence/other",
-        "matched_keywords": [],
-        "media": "no data",
-        "followers": null,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: no data, followers: no data"
-      },
-      {
-        "id": "2114814292096700906",
-        "handle": "@paulg",
-        "lane": "outsider",
-        "views": 51315,
-        "trend_match": 0,
-        "verdict": "coincidence/other",
-        "matched_keywords": [],
-        "media": "no data",
-        "followers": null,
-        "topic": null,
-        "self_quote": false,
-        "note": "media: no data, followers: no data"
+        "note": "followers: no data"
       }
     ],
     "labels": {
@@ -2217,7 +2610,673 @@
       "self_quote": "self-quote",
       "no_data": "no data"
     },
-    "x_keywords": null,
+    "x_keywords": {
+      "fetched_at": "2026-10-27T13:20:00+00:00",
+      "window_start": "2026-10-25T13:20:00Z",
+      "calls": 32,
+      "method": "Read-only x MCP search_posts_all, 2 calls per keyword: last 24 h and previous 24 h (24-48 h ago); lang:en, no retweets/replies, sort=relevancy, up to 25 posts per window. This is a SAMPLE of top-relevance posts, not every post on X. Views = impression_count at fetch time. Rank = sum of sampled 24 h views; 48 h = both windows; trend = 24 h sum / previous 24 h sum (up >=1.3, down <=0.7). Fresh posts are still gaining views, so 'up' is understated. Top-post share > 70% means one viral post carries the keyword.",
+      "missing": [],
+      "sample": true,
+      "sample_size_per_call": 25,
+      "keywords": [
+        {
+          "keyword": "ChatGPT",
+          "query": "\"ChatGPT\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 374764,
+            "median": 194,
+            "top": {
+              "views": 103759,
+              "url": "https://x.com/dee_naliaks/status/2114942699375870121",
+              "handle": "@dee_naliaks",
+              "text": "GTA 6 vibes + a Tesla Roadster = a crossover I didn’t know I needed. 🔥 I’ve been seeing so many creative takes on the Ro"
+            }
+          },
+          "prev24": {
+            "n": 24,
+            "total": 783734,
+            "median": 622,
+            "top": {
+              "views": 167197,
+              "url": "https://x.com/n__deborah/status/2114366103900287014",
+              "handle": "@n__deborah",
+              "text": "The CapCut plugin is coming soon to ChatGPT desktop! 🚀 A quiet opening. A sudden takeoff. Your product arrives on the ne"
+            }
+          },
+          "w48": {
+            "n": 49,
+            "total": 1158498,
+            "top": {
+              "views": 167197,
+              "url": "https://x.com/n__deborah/status/2114366103900287014",
+              "handle": "@n__deborah",
+              "text": "The CapCut plugin is coming soon to ChatGPT desktop! 🚀 A quiet opening. A sudden takeoff. Your product arrives on the ne"
+            }
+          },
+          "change": 0.48,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.28,
+          "rank": 1
+        },
+        {
+          "keyword": "Codex",
+          "query": "(Codex OR \"OpenAI Codex\") (OpenAI OR coding OR agent) lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 363462,
+            "median": 40,
+            "top": {
+              "views": 361735,
+              "url": "https://x.com/The_Cyber_News/status/2114771540352893196",
+              "handle": "@The_Cyber_News",
+              "text": "‼️ Hackers Can Hijack OpenAI Codex and Claude Using Malicious Files in the Downloads Folder Details: https://t.co/QNNMjf"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 30285,
+            "median": 140,
+            "top": {
+              "views": 22055,
+              "url": "https://x.com/choblin29/status/2114455243664810172",
+              "handle": "@choblin29",
+              "text": "Holy Shit. A malicious website can plant a simple markdown file in your Downloads folder. An AI coding agent launched th"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 393747,
+            "top": {
+              "views": 361735,
+              "url": "https://x.com/The_Cyber_News/status/2114771540352893196",
+              "handle": "@The_Cyber_News",
+              "text": "‼️ Hackers Can Hijack OpenAI Codex and Claude Using Malicious Files in the Downloads Folder Details: https://t.co/QNNMjf"
+            }
+          },
+          "change": 12.0,
+          "trend": "up",
+          "partial": false,
+          "top_share": 1.0,
+          "rank": 2
+        },
+        {
+          "keyword": "LLM",
+          "query": "\"LLM\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 87998,
+            "median": 24,
+            "top": {
+              "views": 84617,
+              "url": "https://x.com/attrc/status/2114760803047928133",
+              "handle": "@attrc",
+              "text": "This reads as 1000% FUD. @cohere told the LLM to create a detection for: \"\"\"... malicious file download and execution by"
+            }
+          },
+          "prev24": {
+            "n": 24,
+            "total": 10374,
+            "median": 47,
+            "top": {
+              "views": 3964,
+              "url": "https://x.com/markessien/status/2114621974030819390",
+              "handle": "@markessien",
+              "text": "If an LLM makes a plan, and another LLM implements, this gives you work results than if an LLM makes a plan, another LLM"
+            }
+          },
+          "w48": {
+            "n": 49,
+            "total": 98372,
+            "top": {
+              "views": 84617,
+              "url": "https://x.com/attrc/status/2114760803047928133",
+              "handle": "@attrc",
+              "text": "This reads as 1000% FUD. @cohere told the LLM to create a detection for: \"\"\"... malicious file download and execution by"
+            }
+          },
+          "change": 8.48,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.96,
+          "rank": 3
+        },
+        {
+          "keyword": "OpenAI",
+          "query": "\"OpenAI\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 61671,
+            "median": 30,
+            "top": {
+              "views": 30964,
+              "url": "https://x.com/openclaw/status/2114850737645879629",
+              "handle": "@openclaw",
+              "text": "GPT-6.1 Terra from @OpenAI is already available in OpenClaw. Use ChatGPT sign-in or your OpenAI API key, then select ope"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 1890,
+            "median": 28,
+            "top": {
+              "views": 649,
+              "url": "https://x.com/scottstts/status/2114485903460573419",
+              "handle": "@scottstts",
+              "text": "I remember gpt 5.5 was such a goat model OpenAI made, punching way above its weight class and outlasted 2 gens of ant mo"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 63561,
+            "top": {
+              "views": 30964,
+              "url": "https://x.com/openclaw/status/2114850737645879629",
+              "handle": "@openclaw",
+              "text": "GPT-6.1 Terra from @OpenAI is already available in OpenClaw. Use ChatGPT sign-in or your OpenAI API key, then select ope"
+            }
+          },
+          "change": 32.63,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.5,
+          "rank": 4
+        },
+        {
+          "keyword": "Anthropic",
+          "query": "\"Anthropic\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 54111,
+            "median": 185,
+            "top": {
+              "views": 38101,
+              "url": "https://x.com/rdd147/status/2114899717515841885",
+              "handle": "@rdd147",
+              "text": "Anthropic spent $7.2 billion for 1.4 GW of compute in 2025 (based on reports from investor presentation). Anthropic told"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 164055,
+            "median": 30,
+            "top": {
+              "views": 74108,
+              "url": "https://x.com/StockMKTNewz/status/2114425767048405164",
+              "handle": "@StockMKTNewz",
+              "text": "The Anthropic IPO is coming soon For those who don't know, yes, this is 2026 ... there will be 2x long and 2x short Anth"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 218166,
+            "top": {
+              "views": 74108,
+              "url": "https://x.com/StockMKTNewz/status/2114425767048405164",
+              "handle": "@StockMKTNewz",
+              "text": "The Anthropic IPO is coming soon For those who don't know, yes, this is 2026 ... there will be 2x long and 2x short Anth"
+            }
+          },
+          "change": 0.33,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.7,
+          "rank": 5
+        },
+        {
+          "keyword": "Gemini",
+          "query": "\"Gemini\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 38780,
+            "median": 31,
+            "top": {
+              "views": 11899,
+              "url": "https://x.com/WojakTheDev/status/2114746397866266746",
+              "handle": "@WojakTheDev",
+              "text": "GOOGLE still gives a FREE Gemini API no card · grab a key · start using it FREE on FREE Tier rn: - gemini 3.8 flash - ge"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 30863,
+            "median": 53,
+            "top": {
+              "views": 11562,
+              "url": "https://x.com/Haleeeemahh/status/2114381056950370381",
+              "handle": "@Haleeeemahh",
+              "text": "gemini 4 flash and gemini 4 carbon are coming soon! gemini 4 flash would be the cheaper model of argon gemini 4 carbon w"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 69643,
+            "top": {
+              "views": 11899,
+              "url": "https://x.com/WojakTheDev/status/2114746397866266746",
+              "handle": "@WojakTheDev",
+              "text": "GOOGLE still gives a FREE Gemini API no card · grab a key · start using it FREE on FREE Tier rn: - gemini 3.8 flash - ge"
+            }
+          },
+          "change": 1.26,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.31,
+          "rank": 6
+        },
+        {
+          "keyword": "Claude Code",
+          "query": "\"Claude Code\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 20382,
+            "median": 114,
+            "top": {
+              "views": 13749,
+              "url": "https://x.com/ai_univarse/status/2114722840905924668",
+              "handle": "@ai_univarse",
+              "text": "Most people use Claude Code like a chatbot. That’s the mistake. Claude Code becomes far more powerful when you structure"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 30824,
+            "median": 203,
+            "top": {
+              "views": 11563,
+              "url": "https://x.com/thedelost/status/2114389418853482938",
+              "handle": "@thedelost",
+              "text": "THIS IS A PURE F*CKING GOLD Anthropic made Agent Skills an open spec and GitHub filled up with entire Claude Code engine"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 51206,
+            "top": {
+              "views": 13749,
+              "url": "https://x.com/ai_univarse/status/2114722840905924668",
+              "handle": "@ai_univarse",
+              "text": "Most people use Claude Code like a chatbot. That’s the mistake. Claude Code becomes far more powerful when you structure"
+            }
+          },
+          "change": 0.66,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.67,
+          "rank": 7
+        },
+        {
+          "keyword": "AI video",
+          "query": "\"AI video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 20165,
+            "median": 101,
+            "top": {
+              "views": 6645,
+              "url": "https://x.com/leilamakes/status/2114797880758157467",
+              "handle": "@leilamakes",
+              "text": "paying almost 3x more for the same type of AI video edit is kinda crazy maybe it’s time to rethink how much we’re paying"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 12612,
+            "median": 26,
+            "top": {
+              "views": 8287,
+              "url": "https://x.com/RodmanAi/status/2114353396706861228",
+              "handle": "@RodmanAi",
+              "text": "THESE 10 GITHUB REPOS CAN HELP YOU BUILD YOUR OWN AI VIDEO GENERATION STACK. Want to generate videos from text, animate "
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 32777,
+            "top": {
+              "views": 8287,
+              "url": "https://x.com/RodmanAi/status/2114353396706861228",
+              "handle": "@RodmanAi",
+              "text": "THESE 10 GITHUB REPOS CAN HELP YOU BUILD YOUR OWN AI VIDEO GENERATION STACK. Want to generate videos from text, animate "
+            }
+          },
+          "change": 1.6,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.33,
+          "rank": 8
+        },
+        {
+          "keyword": "MCP",
+          "query": "(MCP OR \"MCP server\") (AI OR agent OR server) lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 14016,
+            "median": 45,
+            "top": {
+              "views": 7983,
+              "url": "https://x.com/Nomina/status/2114790334655779127",
+              "handle": "@Nomina",
+              "text": "Funding rate arbitrage is a job for an AI agent. Watch the spread across every perp DEX, close both legs the moment the "
+            }
+          },
+          "prev24": {
+            "n": 24,
+            "total": 59709,
+            "median": 39,
+            "top": {
+              "views": 46893,
+              "url": "https://x.com/RoundtableSpace/status/2114699842601558046",
+              "handle": "@RoundtableSpace",
+              "text": "Every MCP server and agent you install can read your SSH keys and .env files. Anthropic open-sourced the sandbox it buil"
+            }
+          },
+          "w48": {
+            "n": 49,
+            "total": 73725,
+            "top": {
+              "views": 46893,
+              "url": "https://x.com/RoundtableSpace/status/2114699842601558046",
+              "handle": "@RoundtableSpace",
+              "text": "Every MCP server and agent you install can read your SSH keys and .env files. Anthropic open-sourced the sandbox it buil"
+            }
+          },
+          "change": 0.23,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.57,
+          "rank": 9
+        },
+        {
+          "keyword": "AI agents",
+          "query": "\"AI agents\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 11751,
+            "median": 11,
+            "top": {
+              "views": 6773,
+              "url": "https://x.com/web3righteous/status/2114974079237120353",
+              "handle": "@web3righteous",
+              "text": "if you don’t learn how to use ai agents… you will be left behind. here are 12 youtube videos that will teach you how to "
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 110065,
+            "median": 33,
+            "top": {
+              "views": 84233,
+              "url": "https://x.com/scottmelker/status/2114386497537482967",
+              "handle": "@scottmelker",
+              "text": "Bitcoin Is Insurance Against Financial Chaos - ARK's Chief Futurist | @wintonARK 00:00 AI Agents, Cyberattacks and the N"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 121816,
+            "top": {
+              "views": 84233,
+              "url": "https://x.com/scottmelker/status/2114386497537482967",
+              "handle": "@scottmelker",
+              "text": "Bitcoin Is Insurance Against Financial Chaos - ARK's Chief Futurist | @wintonARK 00:00 AI Agents, Cyberattacks and the N"
+            }
+          },
+          "change": 0.11,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.58,
+          "rank": 10
+        },
+        {
+          "keyword": "second brain",
+          "query": "\"second brain\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 9639,
+            "median": 32,
+            "top": {
+              "views": 5579,
+              "url": "https://x.com/Av1dlive/status/2114777440375762945",
+              "handle": "@Av1dlive",
+              "text": "i built a Grok Bot button that works anywhere on the internet... no more tagging @bot under every post to send it. &gt; "
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 92217,
+            "median": 77,
+            "top": {
+              "views": 42060,
+              "url": "https://x.com/RoundtableSpace/status/2114503523916484741",
+              "handle": "@RoundtableSpace",
+              "text": "Stop building your Claude second brain by hand. 4 free repos that do the setup for you (stars at time of writing): 1. ob"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 101856,
+            "top": {
+              "views": 42060,
+              "url": "https://x.com/RoundtableSpace/status/2114503523916484741",
+              "handle": "@RoundtableSpace",
+              "text": "Stop building your Claude second brain by hand. 4 free repos that do the setup for you (stars at time of writing): 1. ob"
+            }
+          },
+          "change": 0.1,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.58,
+          "rank": 11
+        },
+        {
+          "keyword": "Grok",
+          "query": "\"Grok\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 7839,
+            "median": 31,
+            "top": {
+              "views": 6630,
+              "url": "https://x.com/testerlabor/status/2114741561791754450",
+              "handle": "@testerlabor",
+              "text": "Short remider: We're only 3 Grok models away from Grok 5.According to my calculations and the timeline, Grok 4.8 should "
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 29440,
+            "median": 101,
+            "top": {
+              "views": 17104,
+              "url": "https://x.com/Texas_Twins_Dad/status/2114400859513618889",
+              "handle": "@Texas_Twins_Dad",
+              "text": "Now I say \"Hey Grok\" from anywhere in my house, and voice chat opens. I found a way to wake up Grok Bot on my computer w"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 37279,
+            "top": {
+              "views": 17104,
+              "url": "https://x.com/Texas_Twins_Dad/status/2114400859513618889",
+              "handle": "@Texas_Twins_Dad",
+              "text": "Now I say \"Hey Grok\" from anywhere in my house, and voice chat opens. I found a way to wake up Grok Bot on my computer w"
+            }
+          },
+          "change": 0.27,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.85,
+          "rank": 12
+        },
+        {
+          "keyword": "open source",
+          "query": "\"open source\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 5941,
+            "median": 44,
+            "top": {
+              "views": 1114,
+              "url": "https://x.com/rosemoni18/status/2114866571332231474",
+              "handle": "@rosemoni18",
+              "text": "10 GitHub repos that seem \"illegal\" but are perfectly legal 1. yt-dlp → https://t.co/XBg2lzawEc Downloads videos from an"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 41642,
+            "median": 66,
+            "top": {
+              "views": 22672,
+              "url": "https://x.com/ByteEcosystem/status/2114392353012097434",
+              "handle": "@ByteEcosystem",
+              "text": "Sam Altman says patching bugs can no longer secure the internet as AI may exploit hardware-level issues. OpenAI will not"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 47583,
+            "top": {
+              "views": 22672,
+              "url": "https://x.com/ByteEcosystem/status/2114392353012097434",
+              "handle": "@ByteEcosystem",
+              "text": "Sam Altman says patching bugs can no longer secure the internet as AI may exploit hardware-level issues. OpenAI will not"
+            }
+          },
+          "change": 0.14,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.19,
+          "rank": 13
+        },
+        {
+          "keyword": "prompt injection",
+          "query": "\"prompt injection\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 5417,
+            "median": 19,
+            "top": {
+              "views": 4454,
+              "url": "https://x.com/showxlate/status/2114976568384622715",
+              "handle": "@showxlate",
+              "text": "Security Report: `https://t.co/wTW8dZ2TMv` Active Social Engineering Campaign + Prompt-Injection-to-RCE Architectural Vu"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 22485,
+            "median": 11,
+            "top": {
+              "views": 20888,
+              "url": "https://x.com/lefthanddraft/status/2114500049539649735",
+              "handle": "@lefthanddraft",
+              "text": "Deepseek inherited the worst loser energy from its teacher model. Me: \"I feel I am getting close\" (showing it a prompt i"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 27902,
+            "top": {
+              "views": 20888,
+              "url": "https://x.com/lefthanddraft/status/2114500049539649735",
+              "handle": "@lefthanddraft",
+              "text": "Deepseek inherited the worst loser energy from its teacher model. Me: \"I feel I am getting close\" (showing it a prompt i"
+            }
+          },
+          "change": 0.24,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.82,
+          "rank": 14
+        },
+        {
+          "keyword": "vibe coding",
+          "query": "\"vibe coding\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 5175,
+            "median": 25,
+            "top": {
+              "views": 2347,
+              "url": "https://x.com/CryptoCyberia/status/2114902716069691534",
+              "handle": "@CryptoCyberia",
+              "text": "Wow, you're telling me that all my vibe coding, and most vibe coding in the world, will cost zero dollars? https://t.co/"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 11816,
+            "median": 90,
+            "top": {
+              "views": 7575,
+              "url": "https://x.com/JFGariepy/status/2114397441005105367",
+              "handle": "@JFGariepy",
+              "text": "I have now delegated all of my vibe coding to an automated vibe coding agent, Grok Bot. It is now controlling my ChatGPT"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 16991,
+            "top": {
+              "views": 7575,
+              "url": "https://x.com/JFGariepy/status/2114397441005105367",
+              "handle": "@JFGariepy",
+              "text": "I have now delegated all of my vibe coding to an automated vibe coding agent, Grok Bot. It is now controlling my ChatGPT"
+            }
+          },
+          "change": 0.44,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.45,
+          "rank": 15
+        },
+        {
+          "keyword": "Cursor",
+          "query": "\"Cursor\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 2334,
+            "median": 23,
+            "top": {
+              "views": 415,
+              "url": "https://x.com/xmyttle/status/2114971356294963249",
+              "handle": "@xmyttle",
+              "text": "WAIT, IF YOU PAY FOR CURSOR YOU ALREADY HAVE GROK BOT, AND ITS COMPUTERS RUN IN CURSOR'S CLOUD Almost nobody has read th"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 4415,
+            "median": 39,
+            "top": {
+              "views": 1557,
+              "url": "https://x.com/melvindvivas/status/2114350473813848174",
+              "handle": "@melvindvivas",
+              "text": "Grok Bot shows progress of a coding task and a button to open it in Cursor Go to your bot's profile and select Details t"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 6749,
+            "top": {
+              "views": 1557,
+              "url": "https://x.com/melvindvivas/status/2114350473813848174",
+              "handle": "@melvindvivas",
+              "text": "Grok Bot shows progress of a coding task and a button to open it in Cursor Go to your bot's profile and select Details t"
+            }
+          },
+          "change": 0.53,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.18,
+          "rank": 16
+        }
+      ]
+    },
     "legend": "Trend match 0-100% = 1 - prod(1 - w) over matched 24 h keywords that another author also used in the 48 h window (w: rank 1-10 0.35, 11-25 0.22, 26-40 0.12, curated 0.20). Verdict: >= 50% -> trend; else video/image in the post data -> visual; else >= 100K followers (outsiders without follower data: >= 500K views, estimate) -> author/audience; else coincidence/other. Missing data shows as 'no data'. Heat = sum log10(views) of topic posts (24 h x1, 24-48 h x0.5), scaled to 100. Momentum = log-views last 24 h / previous 24 h. Trend-input-only accounts feed the corpus but are never shown as hits."
   }
 }
